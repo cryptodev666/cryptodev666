@@ -22,7 +22,7 @@ A developer who loves to learn and create new things. Keeping the good mood and 
 
 **🐱 My Github Data** 
 
-> 🏆 1,032 Contributions in the Year 2020
+> 🏆 1,036 Contributions in the Year 2020
  > 
 > 📦 94.6 kB Used in Github's Storage 
  > 
