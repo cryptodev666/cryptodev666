@@ -19,7 +19,6 @@ A developer who loves to learn and create new things. Keeping the good mood and 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" >
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.6%20million%20lines%20of%20code-blue)
 
@@ -57,23 +56,6 @@ Sunday       5 commits      ░░░░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -85,10 +67,6 @@ Shell                    1 repos             █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://github.com/willnaoosmith/willnaoosmith/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
