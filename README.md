@@ -18,7 +18,7 @@ A developer who loves to learn and create new things. Keeping the good mood and 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" >
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -35,8 +35,8 @@ A developer who loves to learn and create new things. Keeping the good mood and 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    201 commits    █████████░░░░░░░░░░░░░░░░   35.7% 
-🌆 Daytime    343 commits    ███████████████░░░░░░░░░░   60.92% 
+🌞 Morning    201 commits    █████████░░░░░░░░░░░░░░░░   35.64% 
+🌆 Daytime    344 commits    ███████████████░░░░░░░░░░   60.99% 
 🌃 Evening    15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
 
@@ -44,11 +44,11 @@ A developer who loves to learn and create new things. Keeping the good mood and 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
-Tuesday      89 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.81% 
-Wednesday    139 commits    ██████░░░░░░░░░░░░░░░░░░░   24.69% 
-Thursday     143 commits    ██████░░░░░░░░░░░░░░░░░░░   25.4% 
-Friday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
+Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
+Tuesday      90 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.96% 
+Wednesday    139 commits    ██████░░░░░░░░░░░░░░░░░░░   24.65% 
+Thursday     143 commits    ██████░░░░░░░░░░░░░░░░░░░   25.35% 
+Friday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
 
