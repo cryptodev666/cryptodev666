@@ -21,5 +21,76 @@ A developer who loves to learn and create new things. Keeping the good mood and 
  [![Github Status](https://github-readme-stats.vercel.app/api?username=willnaoosmith&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/willnaoosmith)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,029 Contributions in the Year 2020
+ > 
+> 📦 94.5 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 36 Public Repositories
+ > 
+> 🔑 6 Private Repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    201 commits    █████████░░░░░░░░░░░░░░░░   36.02% 
+🌆 Daytime    338 commits    ███████████████░░░░░░░░░░   60.57% 
+🌃 Evening    15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
+🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
+Tuesday      84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+Wednesday    139 commits    ██████░░░░░░░░░░░░░░░░░░░   24.91% 
+Thursday     143 commits    ██████░░░░░░░░░░░░░░░░░░░   25.63% 
+Friday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ████████████░░░░░░░░░░░░░   50.0% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Jupyter Notebook         1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Shell                    1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/willnaoosmith/willnaoosmith/blob/master/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
