@@ -3,13 +3,12 @@
 
 A developer who loves to learn and create new things. Keeping the good mood and the good code!
 
-[![Github Badge](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/willnaoosmith)](https://github.com/willnaoosmith)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/story/12368797)](https://stackoverflow.com/users/story/12368797)
 [![Whatsapp Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585999881135&text=Hi!)](https://api.whatsapp.com/send?phone=5511941228721text=Ola!)
 [![Protonmail Badge](https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:brochensquewill@protonmail.com)](mailto:brochensquewill@protonmail.com)
 [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/adrielfreud)](https://twitter.com/willnaoosmit)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/willnaoosmith/)](https://www.facebook.com/willnaoosmith)
-
+[![Spotify Badge](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/7vH3uawXW4r3mX2NNglmeI?si=Fcrr0zmITmylmWQLg5ANgQ)](https://open.spotify.com/playlist/7vH3uawXW4r3mX2NNglmeI?si=Fcrr0zmITmylmWQLg5ANgQ)
 
 ### Some languages and frameworks
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" > <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" >
