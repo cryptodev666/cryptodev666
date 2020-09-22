@@ -24,11 +24,11 @@ A developer who loves to learn and create new things. Keeping the good mood and 
 
 > 🏆 1,029 Contributions in the Year 2020
  > 
-> 📦 94.5 kB Used in Github's Storage 
+> 📦 94.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories
+> 📜 33 Public Repositories
  > 
 > 🔑 6 Private Repositories 
 
