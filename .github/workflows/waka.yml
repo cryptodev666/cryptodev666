@@ -20,5 +20,7 @@ jobs:
           SHOW_LOC_CHART: "False" 
           SHOW_PROFILE_VIEWS: "False" 
           SHOW_LANGUAGE_PER_REPO: "True"  
+          SHOW_EDITORS: "False" 
+          SHOW_LANGUAGE: "False" 
           SHOW_TIMEZONE: "False" 
           LOCALE: "en"
