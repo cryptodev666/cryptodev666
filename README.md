@@ -1,21 +1,39 @@
-# William Brochensque Júnior 👨🏼‍💻
-## Multiplatform developer at VMAX Digital
 
-A developer who loves to learn and create new things. Keeping the good mood and the good code!
 
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/story/12368797)](https://stackoverflow.com/users/story/12368797)
-[![Whatsapp Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585999881135&text=Hi!)](https://api.whatsapp.com/send?phone=5511941228721text=Ola!)
-[![Protonmail Badge](https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:brochensquewill@protonmail.com)](mailto:brochensquewill@protonmail.com)
-[![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/adrielfreud)](https://twitter.com/willnaoosmit)
-[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/willnaoosmith/)](https://www.facebook.com/willnaoosmith)
-[![Spotify Badge](https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/playlist/7vH3uawXW4r3mX2NNglmeI?si=Fcrr0zmITmylmWQLg5ANgQ)](https://open.spotify.com/playlist/7vH3uawXW4r3mX2NNglmeI?si=Fcrr0zmITmylmWQLg5ANgQ)
+<h1 align="center">William Brochensque Júnior 👨🏼‍💻</h1>
+<h4 align="center">Multiplatform developer at VMAX Digital</h2>
+<h5 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h5/>
 
-### Some languages and frameworks
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" > <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" >
-<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" >
-<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" >
-<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask" >
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" >
+<p align="center">
+		<a href="https://stackoverflow.com/users/story/12368797">
+		<img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white" />
+	</a>
+		<a href="https://api.whatsapp.com/send?phone=5511941228721text=Ola!">
+		<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+	</a>
+		<a href="mailto:brochensquewill@protonmail.com">
+		<img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
+	</a>
+		<a href="https://www.facebook.com/willnaoosmith">
+		<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+	</a>
+		<a href="https://twitter.com/willnaoosmit">
+		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	</a>
+	<a href="https://open.spotify.com/playlist/7vH3uawXW4r3mX2NNglmeI?si=Fcrr0zmITmylmWQLg5ANgQ">
+		<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+	</a>
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
+</p>
+
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.6%20million%20lines%20of%20code-blue)
@@ -28,7 +46,7 @@ A developer who loves to learn and create new things. Keeping the good mood and 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories
+> 📜 34 Public Repositories
  > 
 > 🔑 10 Private Repositories 
 
