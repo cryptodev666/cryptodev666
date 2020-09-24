@@ -1,7 +1,6 @@
-
-
 <h1 align="center">William Brochensque Júnior 👨🏼‍💻</h1>
-<h4 align="center">Multiplatform developer at VMAX Digital</h2>
+
+<h5 align="center">Multiplatform developer at VMAX Digital</h2>
 <h5 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h5/>
 
 <p align="center">
@@ -25,6 +24,10 @@
 	</a>
 </p>
 
+<br>
+
+<h4 align="center">Some technologies, languages and frameworks:<h4/>
+	
 <p align="center">
 	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
@@ -34,27 +37,28 @@
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
 </p>
 
+<br>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,053 Contributions in the Year 2020
+> 🏆 1,052 Contributions in the Year 2020
  > 
 > 📦 94.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories
+> 📜 34 Public Repositories
  > 
 > 🔑 10 Private Repositories 
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    199 commits    ████████░░░░░░░░░░░░░░░░░   34.73% 
-🌆 Daytime    355 commits    ███████████████░░░░░░░░░░   61.95% 
+🌞 Morning    199 commits    ████████░░░░░░░░░░░░░░░░░   34.79% 
+🌆 Daytime    354 commits    ███████████████░░░░░░░░░░   61.89% 
 🌃 Evening    15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
@@ -62,11 +66,11 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.4% 
-Wednesday    137 commits    ██████░░░░░░░░░░░░░░░░░░░   23.91% 
-Thursday     154 commits    ██████░░░░░░░░░░░░░░░░░░░   26.88% 
-Friday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
+Monday       79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
+Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.43% 
+Wednesday    137 commits    ██████░░░░░░░░░░░░░░░░░░░   23.95% 
+Thursday     153 commits    ██████░░░░░░░░░░░░░░░░░░░   26.75% 
+Friday       104 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
 Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
 
