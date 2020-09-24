@@ -28,7 +28,7 @@ A developer who loves to learn and create new things. Keeping the good mood and 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories
+> 📜 35 Public Repositories
  > 
 > 🔑 10 Private Repositories 
 
