@@ -26,7 +26,7 @@
 
 <br>
 
-<h4 align="center">Some technologies, languages and frameworks:<h4/>
+<h4 align="center">Some technologies, languages and frameworks<h4/>
 	
 <p align="center">
 	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />&nbsp;&nbsp;
