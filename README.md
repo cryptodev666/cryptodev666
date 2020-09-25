@@ -39,6 +39,36 @@
 
 <br>
 
+```javascript
+let will = {
+    askMeAbout: "Dont ask",
+    Favorites: {
+    	OperationalSystem: "Arch Linux",
+        GUI: "XFCE",
+        Kernel: "Zen",
+        Interpreter: "ZSH",
+    	IDE: "Sublime text",
+    	Language: "Python",
+    	MobileOS: "Android",
+    	Misc: ["Firebase", "selenium", "PyQt5"],
+    	Games: ["Chrono Trigger", "Driver: Parallel Lines", "The Legend of Zelda: The Minish Cap", "Some kaizos"],
+    	Music: ["Lo-fi", "Rock", "Indie"],
+    	Songs: ["Future People - Alabama shakes", "Goodbye weekend - Mac DeMarco", "N.I.B - Black Sabbath" ,"BFG Division - Mick Gordon"],
+    	Artists: ["Mac DeMarco", "Alabama Shakes", "Black Sabbath"],
+    	HowDoISeeMyselfIn5Years: "As a fullstack dev"
+    },
+    currentFocus: "Automate boring tasks with Python when i'm not at work",
+    funFact: false
+};
+
+fetch('https://uselessfacts.jsph.pl/random.json?language=en')
+	.then(res => res.json())
+	.then(data => will['funFact'] = data.text)
+	.then(() => console.log(will['funFact']))
+```
+
+<br>
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.6%20million%20lines%20of%20code-blue)
 
