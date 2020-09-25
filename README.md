@@ -41,7 +41,6 @@
 
 ```javascript
 let will = {
-    askMeAbout: "Dont ask",
     Favorites: {
     	OperationalSystem: "Arch Linux",
         GUI: "XFCE",
