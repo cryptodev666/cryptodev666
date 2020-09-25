@@ -52,7 +52,7 @@ let will = {
     	Misc: ["Firebase", "selenium", "PyQt5"],
     	Games: ["Chrono Trigger", "Driver: Parallel Lines", "The Legend of Zelda: The Minish Cap", "Some kaizos"],
     	Music: ["Lo-fi", "Rock", "Indie"],
-    	Songs: ["Future People - Alabama shakes", "Goodbye weekend - Mac DeMarco", "N.I.B - Black Sabbath" ,"BFG Division - Mick Gordon"],
+    	Songs: ["Future People - Alabama shakes", "Goodbye weekend - Mac DeMarco", "N.I.B - Black Sabbath"],
     	Artists: ["Mac DeMarco", "Alabama Shakes", "Black Sabbath"],
     	HowDoISeeMyselfIn5Years: "As a fullstack dev"
     },
