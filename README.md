@@ -4,19 +4,22 @@
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/>
 
 <p align="center">
-		<a href="https://stackoverflow.com/users/story/12368797">
+	<a href="https://gist.github.com/willnaoosmith">
+		<img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" />
+	</a>
+	<a href="https://stackoverflow.com/users/story/12368797">
 		<img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white" />
 	</a>
-		<a href="https://api.whatsapp.com/send?phone=5511941228721text=Ola!">
+	<a href="https://api.whatsapp.com/send?phone=5511941228721text=Ola!">
 		<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 	</a>
-		<a href="mailto:brochensquewill@protonmail.com">
+	<a href="mailto:brochensquewill@protonmail.com">
 		<img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
 	</a>
-		<a href="https://www.facebook.com/willnaoosmith">
+	<a href="https://www.facebook.com/willnaoosmith">
 		<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
-		<a href="https://twitter.com/willnaoosmit">
+	<a href="https://twitter.com/willnaoosmit">
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
 	<a href="https://open.spotify.com/playlist/7vH3uawXW4r3mX2NNglmeI?si=Fcrr0zmITmylmWQLg5ANgQ">
@@ -79,7 +82,7 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories
+> 📜 34 Public Repositories
  > 
 > 🔑 9 Private Repositories 
 
