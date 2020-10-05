@@ -82,7 +82,7 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories
+> 📜 36 Public Repositories
  > 
 > 🔑 10 Private Repositories 
 
