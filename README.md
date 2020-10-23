@@ -76,15 +76,15 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 
 **🐱 My Github Data** 
 
-> 🏆 1,855 Contributions in the Year 2020
+> 🏆 1,861 Contributions in the Year 2020
  > 
 > 📦 81.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 38 Public Repositories
+> 📜 39 Public Repositories
  > 
-> 🔑 11 Private Repositories 
+> 🔑 10 Private Repositories 
 
 **I'm an Early 🐤** 
 
