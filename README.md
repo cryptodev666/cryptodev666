@@ -10,9 +10,6 @@
 	<a href="https://stackoverflow.com/users/story/12368797">
 		<img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white" />
 	</a>
-	<a href="https://api.whatsapp.com/send?phone=5511941228721text=Ola!">
-		<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-	</a>
 	<a href="mailto:brochensquewill@protonmail.com">
 		<img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
 	</a>
