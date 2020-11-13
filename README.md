@@ -98,8 +98,8 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 Monday       154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
 Tuesday      177 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
 Wednesday    230 commits    █████░░░░░░░░░░░░░░░░░░░░   22.93% 
-Thursday     227 commits    █████░░░░░░░░░░░░░░░░░░░░   22.63% 
-Friday       204 commits    █████░░░░░░░░░░░░░░░░░░░░   20.34% 
+Thursday     226 commits    █████░░░░░░░░░░░░░░░░░░░░   22.53% 
+Friday       205 commits    █████░░░░░░░░░░░░░░░░░░░░   20.44% 
 Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
 Sunday       8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
