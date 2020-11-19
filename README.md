@@ -69,7 +69,7 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -98,8 +98,8 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 Monday       164 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
 Tuesday      186 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
 Wednesday    219 commits    █████░░░░░░░░░░░░░░░░░░░░   21.68% 
-Thursday     216 commits    █████░░░░░░░░░░░░░░░░░░░░   21.39% 
-Friday       221 commits    █████░░░░░░░░░░░░░░░░░░░░   21.88% 
+Thursday     217 commits    █████░░░░░░░░░░░░░░░░░░░░   21.49% 
+Friday       220 commits    █████░░░░░░░░░░░░░░░░░░░░   21.78% 
 Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
 Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
 
