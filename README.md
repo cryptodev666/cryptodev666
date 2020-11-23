@@ -75,7 +75,7 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 
 > 🏆 2,309 Contributions in the Year 2020
  > 
-> 📦 84.4 kB Used in Github's Storage 
+> 📦 85.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
