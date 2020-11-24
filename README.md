@@ -69,11 +69,11 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 2,321 Contributions in the Year 2020
+> 🏆 2,322 Contributions in the Year 2020
  > 
 > 📦 85.9 kB Used in Github's Storage 
  > 
@@ -96,10 +96,10 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 
 ```text
 Monday       171 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
-Tuesday      179 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Tuesday      180 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.75% 
 Wednesday    201 commits    █████░░░░░░░░░░░░░░░░░░░░   19.82% 
 Thursday     228 commits    █████░░░░░░░░░░░░░░░░░░░░   22.49% 
-Friday       230 commits    █████░░░░░░░░░░░░░░░░░░░░   22.68% 
+Friday       229 commits    █████░░░░░░░░░░░░░░░░░░░░   22.58% 
 Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
 Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
 
