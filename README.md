@@ -49,7 +49,7 @@ let will = {
     	IDE: "Sublime text",
     	Language: "Python",
     	MobileOS: "Android",
-    	Misc: ["Firebase", "selenium", "PyQt5"],
+    	Misc: ["Firebase", "Selenium", "PyQt5"],
     	Games: ["Chrono Trigger", "Driver: Parallel Lines", "The Legend of Zelda: The Minish Cap", "Some kaizos"],
     	Music: ["Lo-fi", "Rock", "Indie"],
     	Songs: ["Future People - Alabama shakes", "Goodbye weekend - Mac DeMarco", "N.I.B - Black Sabbath"],
