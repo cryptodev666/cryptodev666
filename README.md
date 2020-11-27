@@ -73,7 +73,7 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 
 **🐱 My Github Data** 
 
-> 📦 84.3 kB Used in Github's Storage 
+> 📦 84.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
