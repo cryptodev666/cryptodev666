@@ -69,7 +69,7 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -84,8 +84,8 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    337 commits    ███████░░░░░░░░░░░░░░░░░░   30.92% 
-🌆 Daytime    725 commits    ████████████████░░░░░░░░░   66.51% 
+🌞 Morning    336 commits    ███████░░░░░░░░░░░░░░░░░░   30.83% 
+🌆 Daytime    726 commits    ████████████████░░░░░░░░░   66.61% 
 🌃 Evening    24 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2% 
 🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
