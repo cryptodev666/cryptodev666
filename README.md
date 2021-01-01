@@ -73,7 +73,7 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 
 **🐱 My Github Data** 
 
-> 🏆 2,900 Contributions in the Year 2020
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 86.0 kB Used in Github's Storage 
  > 
