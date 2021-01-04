@@ -43,7 +43,7 @@
 # !/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import requests
+import requests, json
 
 will = {
     "Favorites": {
@@ -64,6 +64,8 @@ will = {
     "currentFocus": "Automate boring tasks with Python when i'm not at work",
     "funFact": requests.get(url="https://uselessfacts.jsph.pl/random.json?language=en").json()['text']
 }
+
+print(json.dumps(will, indent=5, sort_keys=True))
 ```
 
 <br>
