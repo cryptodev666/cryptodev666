@@ -46,6 +46,7 @@
 import requests, json
 
 will = {
+    "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
     "Favorites": {
         "OperationalSystem": "Arch Linux",
         "GUI": "XFCE",
@@ -61,8 +62,7 @@ will = {
         "Artists": ["Mac DeMarco", "Raimundos", "Black Sabbath"],
         "HowDoISeeMyselfIn5Years": "As a fullstack dev"
     },
-    "currentFocus": "Automate boring tasks with Python when i'm not at work",
-    "funFact": requests.get(url="https://uselessfacts.jsph.pl/random.json?language=en").json()['text']
+    "FunFact": requests.get(url="https://uselessfacts.jsph.pl/random.json?language=en").json()['text']
 }
 
 print(json.dumps(will, indent=5, sort_keys=True))
