@@ -73,7 +73,7 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 
 **🐱 My Github Data** 
 
-> 🏆 29 Contributions in the Year 2021
+> 🏆 30 Contributions in the Year 2021
  > 
 > 📦 86.0 kB Used in Github's Storage 
  > 
@@ -95,8 +95,8 @@ fetch('https://uselessfacts.jsph.pl/random.json?language=en')
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       188 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
-Tuesday      174 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
+Monday       189 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
+Tuesday      173 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.16% 
 Wednesday    266 commits    █████░░░░░░░░░░░░░░░░░░░░   23.31% 
 Thursday     268 commits    █████░░░░░░░░░░░░░░░░░░░░   23.49% 
 Friday       238 commits    █████░░░░░░░░░░░░░░░░░░░░   20.86% 
