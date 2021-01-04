@@ -57,8 +57,8 @@ will = {
         "Misc": ["Firebase", "Selenium", "PyQt5"],
         "Games": ["Chrono Trigger", "Driver: Parallel Lines", "The Legend of Zelda: The Minish Cap", "Some kaizos"],
         "Music": ["Lo-fi", "Rock", "Indie"],
-        "Songs": ["Future People - Alabama shakes", "Goodbye weekend - Mac DeMarco", "N.I.B - Black Sabbath"],
-        "Artists": ["Mac DeMarco", "Alabama Shakes", "Black Sabbath"],
+        "Songs": ["N.I.B - Black Sabbath", "BFG Divisiob - Mick Gordon", "Goodbye weekend - Mac DeMarco"],
+        "Artists": ["Mac DeMarco", "Raimundos", "Black Sabbath"],
         "HowDoISeeMyselfIn5Years": "As a fullstack dev"
     },
     "currentFocus": "Automate boring tasks with Python when i'm not at work",
