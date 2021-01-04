@@ -39,31 +39,31 @@
 
 <br>
 
-```javascript
-let will = {
-    Favorites: {
-    	OperationalSystem: "Arch Linux",
-        GUI: "XFCE",
-        Kernel: "Zen",
-        Interpreter: "ZSH",
-    	IDE: "Sublime text",
-    	Language: "Python",
-    	MobileOS: "Android",
-    	Misc: ["Firebase", "Selenium", "PyQt5"],
-    	Games: ["Chrono Trigger", "Driver: Parallel Lines", "The Legend of Zelda: The Minish Cap", "Some kaizos"],
-    	Music: ["Lo-fi", "Rock", "Indie"],
-    	Songs: ["Future People - Alabama shakes", "Goodbye weekend - Mac DeMarco", "N.I.B - Black Sabbath"],
-    	Artists: ["Mac DeMarco", "Alabama Shakes", "Black Sabbath"],
-    	HowDoISeeMyselfIn5Years: "As a fullstack dev"
-    },
-    currentFocus: "Automate boring tasks with Python when i'm not at work",
-    funFact: false
-};
+```python
+# !/usr/bin/python
+# -*- coding: utf-8 -*-
 
-fetch('https://uselessfacts.jsph.pl/random.json?language=en')
-	.then(res => res.json())
-	.then(data => will['funFact'] = data.text)
-	.then(() => console.log(will['funFact']))
+import requests
+
+will = {
+    "Favorites": {
+        "OperationalSystem": "Arch Linux",
+        "GUI": "XFCE",
+        "Kernel": "Zen",
+        "Interpreter": "ZSH",
+        "IDE": "Sublime text",
+        "Language": "Python",
+        "MobileOS": "Android",
+        "Misc": ["Firebase", "Selenium", "PyQt5"],
+        "Games": ["Chrono Trigger", "Driver: Parallel Lines", "The Legend of Zelda: The Minish Cap", "Some kaizos"],
+        "Music": ["Lo-fi", "Rock", "Indie"],
+        "Songs": ["Future People - Alabama shakes", "Goodbye weekend - Mac DeMarco", "N.I.B - Black Sabbath"],
+        "Artists": ["Mac DeMarco", "Alabama Shakes", "Black Sabbath"],
+        "HowDoISeeMyselfIn5Years": "As a fullstack dev"
+    },
+    "currentFocus": "Automate boring tasks with Python when i'm not at work",
+    "funFact": requests.get(url="https://uselessfacts.jsph.pl/random.json?language=en").json()['text']
+}
 ```
 
 <br>
