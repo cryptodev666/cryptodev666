@@ -75,13 +75,13 @@ print(json.dumps(will, indent=5, sort_keys=True))
 
 **🐱 My Github Data** 
 
-> 🏆 84 Contributions in the Year 2021
+> 🏆 85 Contributions in the Year 2021
  > 
 > 📦 86.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 44 Public Repositories 
+> 📜 45 Public Repositories 
  > 
 > 🔑 14 Private Repositories  
  > 
