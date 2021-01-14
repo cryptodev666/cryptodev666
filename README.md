@@ -70,7 +70,7 @@
       "DadJokeOfTheDay": "Have you ever heard of a music group called Cellophane? They mostly wrap.",
       "IsTodayChristmas?": "I dont know",
       "IsTodayMyBirthday?": "Yes'nt",
-      "MemeOfTheDay": "https://i.imgflip.com/4tsfdx.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4tsfdx.jpg"
    }
 }
 ```
