@@ -39,34 +39,48 @@
 
 <br>
 
+<!--START_SECTION:mydata-->
+
 ```python
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
-
-import requests, json
-
 will = {
-    "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
-    "Favorites": {
-        "OperationalSystem": "Arch Linux",
-        "GUI": "XFCE",
-        "Kernel": "Zen",
-        "Interpreter": "ZSH",
-        "IDE": "Sublime text",
-        "Language": "Python",
-        "MobileOS": "Android",
-        "Misc": ["Firebase", "Selenium", "PyQt5"],
-        "Games": ["Chrono Trigger", "Driver: Parallel Lines", "The Legend of Zelda: The Minish Cap", "Some kaizos"],
-        "Music": ["Lo-fi", "Rock", "Indie"],
-        "Songs": ["N.I.B - Black Sabbath", "BFG Divisiob - Mick Gordon", "Goodbye weekend - Mac DeMarco"],
-        "Artists": ["Mac DeMarco", "Raimundos", "Black Sabbath"],
-        "HowDoISeeMyselfIn5Years": "As a fullstack dev"
-    },
-    "FunFact": requests.get(url="https://uselessfacts.jsph.pl/random.json?language=en").json()['text']
+     "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
+     "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
+     "CurrentStackOverflowReputation": "955",
+     "DadJokeOfTheDay": "Have you heard of the band 1023MB? They haven't got a gig yet.",
+     "Favorites": {
+          "GUI": "XFCE",
+          "Games": [
+               "Chrono Trigger",
+               "Driver: Parallel Lines",
+               "The Legend of Zelda: The Minish Cap"
+          ],
+          "IDE": "Sublime text",
+          "Interpreter": "ZSH",
+          "Kernel": "Zen",
+          "Language": "Python",
+          "Misc": [
+               "Firebase",
+               "Selenium",
+               "PyQt5",
+               "Electronics"
+          ],
+          "MobileOS": "Android",
+          "Music": {
+               "Artists": [],
+               "Genres": [],
+               "MostHeardSongsLast4Weeks": [],
+               "Songs": []
+          },
+          "OperationalSystem": "Arch Linux"
+     },
+     "FunFactOfTheDay": "A piece of paper can be folded no more then 9 times.",
+     "HowDoISeeMyselfIn5Years": "As a fullstack dev",
+     "IsTodayChristmas?": "No",
+     "IsTodayMyBirthday?": "Yes'nt"
 }
-
-print(json.dumps(will, indent=5, sort_keys=True))
 ```
+
+<!--END_SECTION:mydata-->
 
 <br>
 

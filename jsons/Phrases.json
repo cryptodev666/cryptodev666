@@ -1,0 +1,11 @@
+{
+	"Christmas": {
+		"yes": ["Yes"],
+		"no": ["No", "Nope", "Not yet", "One day", "Yes'nt"]
+	},
+	"Birthday": {
+		"yes": ["Yes"],
+		"no": ["No", "Nope", "Not yet", "One day", "Yes'nt"]
+	},
+	"ErrorMessages": ["Oh no"]
+}
