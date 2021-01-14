@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Peanuts actually grow underground, as opposed to nuts like walnuts, almonds, etc. that grow on trees (and are sometimes referred to as 'tree nuts'). Peanuts, along with beans and peas, belong to the single plant family, Leguminosae. Legumes are edible seeds enclosed in pods.",
-      "CoolAdviceOfTheDay": "No 'brand' is your friend.",
-      "DadJokeOfTheDay": "Have you ever heard of a music group called Cellophane? They mostly wrap.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4tsfdx.jpg"
+      "FunFactOfTheDay": "In The Empire Strikes Back there is a potato hidden in the asteroid field",
+      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "DadJokeOfTheDay": "My sea sickness comes in waves.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4tss8x.jpg"
    }
 }
 ```
