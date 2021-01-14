@@ -79,7 +79,7 @@ try:
   MemeList = [meme['id'] for meme in RequestApi("https://api.imgflip.com/get_memes")['data']['memes']]
   JokeRequest = RequestApi("https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist,explicit")
 
-  RandomFile['RandomStuff']["MemeOfTheDay"] = requests.post("https://api.imgflip.com/caption_image", data={
+  RandomFile['RandomStuff']["RandomMemeOfTheDay"] = requests.post("https://api.imgflip.com/caption_image", data={
   "template_id": Choose(MemeList),
   "username": sys.argv[1],
   "password": sys.argv[2],
@@ -87,7 +87,7 @@ try:
   "text1": JokeRequest['delivery']
   }).json()['data']['url']
 
-except: RandomFile['RandomStuff']["MemeOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
+except: RandomFile['RandomStuff']["RandomMemeOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
 
 PersonalFile["Will"]["Favorites"]["Music"] = MusicFile #One day it will be real stats from the spotify API
 
