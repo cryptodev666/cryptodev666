@@ -41,57 +41,36 @@
 
 <!--START_SECTION:mydata-->
 
-```python
+```json
 {
-     "Will": {
-          "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
-          "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-          "CurrentStackOverflowReputation": "959",
-          "Favorites": {
-               "OperationalSystem": "Arch Linux",
-               "GUI": "XFCE",
-               "Kernel": "Zen",
-               "Interpreter": "ZSH",
-               "IDE": "Sublime text",
-               "Language": "Python",
-               "MobileOS": "Android",
-               "Misc": [
-                    "Firebase",
-                    "Selenium",
-                    "PyQt5",
-                    "Electronics"
-               ],
-               "Games": [
-                    "Chrono Trigger",
-                    "Driver: Parallel Lines",
-                    "The Legend of Zelda: The Minish Cap"
-               ],
-               "Music": {
-                    "Genres": [
-                         "Rock",
-                         "Lo-fi",
-                         "Indie"
-                    ],
-                    "Songs": [
-                         "Bad caracther - quasimodo",
-                         "Goodbye weekend - Mac de marco",
-                         "Future People - Alabama shakes"
-                    ],
-                    "Artists": [
-                         "Mac de marco",
-                         "Raimundos",
-                         "Jinsang"
-                    ]
-               }
-          }
-     },
-     "Random": {
-          "FunFactOfTheDay": "Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.\u00a0 He died at 13 minutes from midnight on Friday the 13th.",
-          "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
-          "DadJokeOfTheDay": "I used to be a banker, but I lost interest.",
-          "IsTodayChristmas?": "No",
-          "IsTodayMyBirthday?": "Yes'nt"
-     }
+   "Will": {
+      "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
+      "HowDoISeeMyselfIn5Years": "As a fullstack dev",
+      "CurrentStackOverflowReputation": "959",
+      "Favorites": {
+         "OperationalSystem": "Arch Linux",
+         "GUI": "XFCE",
+         "Kernel": "Zen",
+         "Interpreter": "ZSH",
+         "IDE": "Sublime text",
+         "Language": "Python",
+         "MobileOS": "Android",
+         "Misc": ["Firebase","Selenium","PyQt5","Electronics"],
+         "Games": ["Chrono Trigger","Driver: Parallel Lines","The Legend of Zelda: The Minish Cap"],
+         "Music": {
+            "Genres": ["Rock","Lo-fi","Indie"],
+            "Songs": ["Bad caracther - quasimodo","Goodbye weekend - Mac de marco","Future People - Alabama shakes"],
+            "Artists": ["Mac de marco","Raimundos","Jinsang"]
+         }
+      }
+   },
+   "RandomStuff": {
+      "FunFactOfTheDay": "When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.",
+      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
+      "DadJokeOfTheDay": "What do you call a sheep with no legs? A cloud.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe"
+   }
 }
 ```
 
