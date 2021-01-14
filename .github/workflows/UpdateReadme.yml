@@ -31,7 +31,7 @@ jobs:
       - name: Generate my JSON
         run: |
             pip install requests
-            python scripts/Main.py
+            python3 scripts/Main.py
             
       - name: Push changes
         uses: ad-m/github-push-action@master
