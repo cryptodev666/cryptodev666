@@ -4,10 +4,10 @@
 import requests, json, time, random, re
 
 #Load JSON Files
-PersonalFile = json.load(open("../jsons/Personal.json", "r"))
-MusicFile = json.load(open("../jsons/Music.json", "r"))
-RandomFile = json.load(open("../jsons/Random.json", "r"))
-PhrasesFile = json.load(open("../jsons/Phrases.json", "r"))
+PersonalFile = json.load(open("jsons/Personal.json", "r"))
+MusicFile = json.load(open("jsons/Music.json", "r"))
+RandomFile = json.load(open("jsons/Random.json", "r"))
+PhrasesFile = json.load(open("jsons/Phrases.json", "r"))
 
 #Variables
 Today = time.strftime("%Y-%m")
