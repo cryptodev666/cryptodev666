@@ -14,7 +14,17 @@ jobs:
     steps:
       - name: Clone repository
         uses: actions/checkout@v2
+      
+      - name: Generate my JSON
+        run: |
+            pip install requests
+            python3 scripts/Main.py
             
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+  
       - name: Generate Waka Stats
         uses: anmol098/waka-readme-stats@master
         with:
@@ -27,13 +37,3 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"  
           SHOW_TIMEZONE: "False" 
           LOCALE: "en"
-          
-      - name: Generate my JSON
-        run: |
-            pip install requests
-            python3 scripts/Main.py
-            
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
