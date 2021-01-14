@@ -40,7 +40,7 @@ PersonalFile["Favorites"]["Music"] = MusicFile #One day it will be real stats fr
 #Create prettified Json
 will = dict(list(PersonalFile.items()) + list(RandomFile.items()))
 
-myData = "\n```python\nwill = " + json.dumps(will, indent=5, sort_keys=True) + "\n```"
+myData = "\n```python\n" + json.dumps(will, indent=5, sort_keys=True) + "\n```"
 
 #Append new data to the README.md file
 with open('README.md', 'r', encoding="utf8") as file:
