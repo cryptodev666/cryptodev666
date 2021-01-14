@@ -74,11 +74,9 @@ except: RandomFile['RandomStuff']["DadJokeOfTheDay"] = Choose(PhrasesFile["Error
 
 try: PersonalFile['Will']["CurrentStackOverflowReputation"] = RequestApi("https://stackoverflow.com/users/flair/12368797.json")["reputation"].replace('"', "'")
 except: PersonalFile['Will']["CurrentStackOverflowReputation"] = Choose(PhrasesFile["ErrorMessages"])
-
-MemeList = [meme['id'] for meme in RequestApi("https://api.imgflip.com/get_memes")['data']['memes']]
-
 try: 
 
+  MemeList = [meme['id'] for meme in RequestApi("https://api.imgflip.com/get_memes")['data']['memes']]
   JokeRequest = RequestApi("https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist,explicit")
 
   RandomFile['RandomStuff']["MemeOfTheDay"] = requests.post("https://api.imgflip.com/caption_image", data={
