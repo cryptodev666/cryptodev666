@@ -42,11 +42,11 @@
 <!--START_SECTION:mydata-->
 
 ```python
-will = {
-     "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
+{
+     "CoolAdviceOfTheDay": "Don't cross the streams.",
      "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
-     "CurrentStackOverflowReputation": "Well well well, if i didn't put a try/except here",
-     "DadJokeOfTheDay": "What do you do when your bunny gets wet? You get your hare dryer.",
+     "CurrentStackOverflowReputation": "957",
+     "DadJokeOfTheDay": "My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.",
      "Favorites": {
           "GUI": "XFCE",
           "Games": [
@@ -84,10 +84,10 @@ will = {
           },
           "OperationalSystem": "Arch Linux"
      },
-     "FunFactOfTheDay": "Cats have over one hundred vocal sounds, while dogs only have about ten.",
+     "FunFactOfTheDay": "the bird is the word",
      "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-     "IsTodayChristmas?": "Unfortunately, not",
-     "IsTodayMyBirthday?": "Nah"
+     "IsTodayChristmas?": "Not yet",
+     "IsTodayMyBirthday?": "Ask me in one hour"
 }
 ```
 
