@@ -19,15 +19,23 @@ def Choose(list):
 def RequestApi(url):
 	return requests.get(url=url).json()
 
-
 #Cool things
 RandomFile["IsTodayChristmas?"] = Choose(PhrasesFile["Christmas"]["yes"]) if Today == "25-12" else Choose(PhrasesFile["Christmas"]["no"])
 RandomFile["IsTodayMyBirthday?"] = Choose(PhrasesFile["Birthday"]["yes"]) if Today == "07-09" else Choose(PhrasesFile["Birthday"]["no"])
-RandomFile["FunFactOfTheDay"] = RequestApi("https://uselessfacts.jsph.pl/random.json?language=en")['text']
-RandomFile["CoolAdviceOfTheDay"] = RequestApi("https://api.adviceslip.com/advice")['slip']['advice']
-RandomFile["DadJokeOfTheDay"] = RequestApi("https://icanhazdadjoke.com/slack")['attachments'][0]['text']
-PersonalFile["CurrentStackOverflowReputation"] = RequestApi("https://stackoverflow.com/users/flair/12368797.json")["reputation"]
-PersonalFile["Favorites"]["Music"] = MusicFile
+
+try: RandomFile["FunFactOfTheDay"] = RequestApi("https://uselessfacts.jsph.pl/random.json?language=en")['text']
+except: RandomFile["FunFactOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
+
+try: RandomFile["CoolAdviceOfTheDay"] = RequestApi("https://api.adviceslip.com/advice")['slip']['advice']
+except: RandomFile["CoolAdviceOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
+
+try: RandomFile["DadJokeOfTheDay"] = RequestApi("https://icanhazdadjoke.com/slack")['attachments'][0]['text']
+except: RandomFile["DadJokeOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
+
+try: PersonalFile["CurrentStackOverflowReputation"] = RequestApi("https://stackoverflow.com/users/flair/12368797.json")["reputation"]
+except: PersonalFile["CurrentStackOverflowReputation"] = Choose(PhrasesFile["ErrorMessages"])
+
+PersonalFile["Favorites"]["Music"] = MusicFile #One day it will be real stats from the spotify API
 
 #Create prettified Json
 will = dict(list(PersonalFile.items()) + list(RandomFile.items()))

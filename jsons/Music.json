@@ -1,6 +1,5 @@
 {
-	"Genres": [],
-	"Songs": [],
-	"Artists": [],
-	"MostHeardSongsLast4Weeks": []
+	"Genres": ["Rock", "Lo-fi", "Indie"],
+	"Songs": ["Bad caracther - quasimodo", "Goodbye weekend - Mac de marco", "Future People - Alabama shakes"],
+	"Artists": ["Mac de marco", "Raimundos", "Jinsang"]
 }

@@ -43,10 +43,10 @@
 
 ```python
 will = {
-     "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
+     "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
      "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
-     "CurrentStackOverflowReputation": "955",
-     "DadJokeOfTheDay": "What is a vampire's favorite fruit? A blood orange.",
+     "CurrentStackOverflowReputation": "Well well well, if i didn't put a try/except here",
+     "DadJokeOfTheDay": "What do you do when your bunny gets wet? You get your hare dryer.",
      "Favorites": {
           "GUI": "XFCE",
           "Games": [
@@ -66,17 +66,28 @@ will = {
           ],
           "MobileOS": "Android",
           "Music": {
-               "Artists": [],
-               "Genres": [],
-               "MostHeardSongsLast4Weeks": [],
-               "Songs": []
+               "Artists": [
+                    "Mac de marco",
+                    "Raimundos",
+                    "Jinsang"
+               ],
+               "Genres": [
+                    "Rock",
+                    "Lo-fi",
+                    "Indie"
+               ],
+               "Songs": [
+                    "Bad caracther - quasimodo",
+                    "Goodbye weekend - Mac de marco",
+                    "Future People - Alabama shakes"
+               ]
           },
           "OperationalSystem": "Arch Linux"
      },
-     "FunFactOfTheDay": "1 in 8 Americans has worked at a McDonalds restaurant.",
+     "FunFactOfTheDay": "Cats have over one hundred vocal sounds, while dogs only have about ten.",
      "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-     "IsTodayChristmas?": "Nope",
-     "IsTodayMyBirthday?": "No"
+     "IsTodayChristmas?": "Unfortunately, not",
+     "IsTodayMyBirthday?": "Nah"
 }
 ```
 
