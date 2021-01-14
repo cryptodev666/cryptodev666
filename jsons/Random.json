@@ -1,7 +1,9 @@
-{
-	"FunFactOfTheDay": "",
-	"CoolAdviceOfTheDay": "",
-	"DadJokeOfTheDay": "",
-	"IsTodayChristmas?": "",
-	"IsTodayMyBirthday?": ""
+{	
+	"Random":{
+		"FunFactOfTheDay": "",
+		"CoolAdviceOfTheDay": "",
+		"DadJokeOfTheDay": "",
+		"IsTodayChristmas?": "",
+		"IsTodayMyBirthday?": ""
+	}
 }

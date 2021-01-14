@@ -43,51 +43,55 @@
 
 ```python
 {
-     "CoolAdviceOfTheDay": "Don't cross the streams.",
-     "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
-     "CurrentStackOverflowReputation": "957",
-     "DadJokeOfTheDay": "My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.",
-     "Favorites": {
-          "GUI": "XFCE",
-          "Games": [
-               "Chrono Trigger",
-               "Driver: Parallel Lines",
-               "The Legend of Zelda: The Minish Cap"
-          ],
-          "IDE": "Sublime text",
-          "Interpreter": "ZSH",
-          "Kernel": "Zen",
-          "Language": "Python",
-          "Misc": [
-               "Firebase",
-               "Selenium",
-               "PyQt5",
-               "Electronics"
-          ],
-          "MobileOS": "Android",
-          "Music": {
-               "Artists": [
-                    "Mac de marco",
-                    "Raimundos",
-                    "Jinsang"
+     "Will": {
+          "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
+          "HowDoISeeMyselfIn5Years": "As a fullstack dev",
+          "CurrentStackOverflowReputation": "959",
+          "Favorites": {
+               "OperationalSystem": "Arch Linux",
+               "GUI": "XFCE",
+               "Kernel": "Zen",
+               "Interpreter": "ZSH",
+               "IDE": "Sublime text",
+               "Language": "Python",
+               "MobileOS": "Android",
+               "Misc": [
+                    "Firebase",
+                    "Selenium",
+                    "PyQt5",
+                    "Electronics"
                ],
-               "Genres": [
-                    "Rock",
-                    "Lo-fi",
-                    "Indie"
+               "Games": [
+                    "Chrono Trigger",
+                    "Driver: Parallel Lines",
+                    "The Legend of Zelda: The Minish Cap"
                ],
-               "Songs": [
-                    "Bad caracther - quasimodo",
-                    "Goodbye weekend - Mac de marco",
-                    "Future People - Alabama shakes"
-               ]
-          },
-          "OperationalSystem": "Arch Linux"
+               "Music": {
+                    "Genres": [
+                         "Rock",
+                         "Lo-fi",
+                         "Indie"
+                    ],
+                    "Songs": [
+                         "Bad caracther - quasimodo",
+                         "Goodbye weekend - Mac de marco",
+                         "Future People - Alabama shakes"
+                    ],
+                    "Artists": [
+                         "Mac de marco",
+                         "Raimundos",
+                         "Jinsang"
+                    ]
+               }
+          }
      },
-     "FunFactOfTheDay": "the bird is the word",
-     "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-     "IsTodayChristmas?": "Not yet",
-     "IsTodayMyBirthday?": "Ask me in one hour"
+     "Random": {
+          "FunFactOfTheDay": "Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.\u00a0 He died at 13 minutes from midnight on Friday the 13th.",
+          "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
+          "DadJokeOfTheDay": "I used to be a banker, but I lost interest.",
+          "IsTodayChristmas?": "No",
+          "IsTodayMyBirthday?": "Yes'nt"
+     }
 }
 ```
 
