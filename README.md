@@ -43,10 +43,10 @@
 
 ```python
 will = {
-     "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
+     "CoolAdviceOfTheDay": "You're not as fat as you think you are.",
      "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
      "CurrentStackOverflowReputation": "955",
-     "DadJokeOfTheDay": "Have you heard of the band 1023MB? They haven't got a gig yet.",
+     "DadJokeOfTheDay": "What is a vampire's favorite fruit? A blood orange.",
      "Favorites": {
           "GUI": "XFCE",
           "Games": [
@@ -73,10 +73,10 @@ will = {
           },
           "OperationalSystem": "Arch Linux"
      },
-     "FunFactOfTheDay": "A piece of paper can be folded no more then 9 times.",
+     "FunFactOfTheDay": "1 in 8 Americans has worked at a McDonalds restaurant.",
      "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-     "IsTodayChristmas?": "No",
-     "IsTodayMyBirthday?": "Yes'nt"
+     "IsTodayChristmas?": "Nope",
+     "IsTodayMyBirthday?": "No"
 }
 ```
 
