@@ -35,7 +35,7 @@ will = dict(list(PersonalFile.items()) + list(RandomFile.items()))
 myData = "\n```python\nwill = " + json.dumps(will, indent=5, sort_keys=True) + "\n```"
 
 #Append new data to the README.md file
-with open('../README.md', 'r', encoding="utf8") as file:
+with open('README.md', 'r', encoding="utf8") as file:
     
     data = file.read().splitlines()
 
@@ -44,6 +44,6 @@ with open('../README.md', 'r', encoding="utf8") as file:
 
     DataTowrite = data[:start] + myData.splitlines() + data[end:]
 
-    with open('../README.md', 'w', encoding="utf8") as OutFile:
+    with open('README.md', 'w', encoding="utf8") as OutFile:
     	for item in DataTowrite:
     		OutFile.write("%s\n" % item)
