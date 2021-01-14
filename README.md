@@ -65,11 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dueling is legal in Paraguay as long as both parties are registered blood donors.",
-      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
-      "DadJokeOfTheDay": "My boss told me to have a good day. So I went home...",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not quite"
+      "FunFactOfTheDay": "Jupiter is bigger than all the other planets in our solar system combined.",
+      "CoolAdviceOfTheDay": "YOLO",
+      "DadJokeOfTheDay": "Did you hear about the Mexican train killer? He had loco motives",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "MemeOfTheDay": "https://i.imgflip.com/4tsejk.jpg"
    }
 }
 ```

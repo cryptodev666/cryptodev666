@@ -1,7 +1,7 @@
 # !/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import requests, json, time, random, numpy
+import requests, json, time, random, numpy, sys
 
 #Load JSON Files
 PersonalFile = json.load(open("jsons/Personal.json", "r"))
@@ -74,6 +74,22 @@ except: RandomFile['RandomStuff']["DadJokeOfTheDay"] = Choose(PhrasesFile["Error
 
 try: PersonalFile['Will']["CurrentStackOverflowReputation"] = RequestApi("https://stackoverflow.com/users/flair/12368797.json")["reputation"].replace('"', "'")
 except: PersonalFile['Will']["CurrentStackOverflowReputation"] = Choose(PhrasesFile["ErrorMessages"])
+
+MemeList = [meme['id'] for meme in RequestApi("https://api.imgflip.com/get_memes")['data']['memes']]
+
+try: 
+
+  JokeRequest = RequestApi("https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist,explicit")
+
+  RandomFile['RandomStuff']["MemeOfTheDay"] = requests.post("https://api.imgflip.com/caption_image", data={
+  "template_id": Choose(MemeList),
+  "username": sys.argv[1],
+  "password": sys.argv[2],
+  "text0": JokeRequest['setup'],
+  "text1": JokeRequest['delivery']
+  }).json()['data']['url']
+
+except: RandomFile['RandomStuff']["MemeOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
 
 PersonalFile["Will"]["Favorites"]["Music"] = MusicFile #One day it will be real stats from the spotify API
 

@@ -17,11 +17,11 @@ jobs:
       
       - name: Generate my JSON
         run: |
-            pip install requests
-            python3 scripts/Main.py
+            pip install requests numpy
+            python3 scripts/Main.py ${{ secrets.username }} ${{ secrets.password }} 
       
       - name: Commit changes      
-        uses: EndBug/add-and-commit@v6 # You can change this to use a specific version
+        uses: EndBug/add-and-commit@v6
         with:
           token: ${{ secrets.GH_TOKEN }}
   
@@ -37,3 +37,10 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"  
           SHOW_TIMEZONE: "False" 
           LOCALE: "en"
+
+    - name: Dump GitHub context
+      env:
+        GITHUB_CONTEXT: ${{ toJson(github) }}
+      run: |
+        echo "$GITHUB_CONTEXT"
+        echo ${{ github.event.pull_request.title }}
