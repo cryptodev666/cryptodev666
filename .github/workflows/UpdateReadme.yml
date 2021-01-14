@@ -28,7 +28,7 @@ jobs:
           SHOW_TIMEZONE: "False" 
           LOCALE: "en"
           
-      - name: Generate My JSON
+      - name: Generate my JSON
         run: |
             pip install requests
             python scripts/Main.py
