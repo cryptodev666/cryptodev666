@@ -63,16 +63,16 @@ def to_json(o, level=0):
 RandomFile['RandomStuff']["IsTodayChristmas?"] = Choose(ChristmasPositivePhrases) if Today == "25-12" else Choose(ChristmasNegativePhrases)
 RandomFile['RandomStuff']["IsTodayMyBirthday?"] = Choose(BirthdayPositivePhrases) if Today == "07-09" else Choose(BirthdayNegativePhrases)
 
-try: RandomFile['RandomStuff']["FunFactOfTheDay"] = RequestApi("https://uselessfacts.jsph.pl/random.json?language=en")['text']
+try: RandomFile['RandomStuff']["FunFactOfTheDay"] = RequestApi("https://uselessfacts.jsph.pl/random.json?language=en")['text'].replace('"', "'")
 except: RandomFile['RandomStuff']["FunFactOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
 
-try: RandomFile['RandomStuff']["CoolAdviceOfTheDay"] = RequestApi("https://api.adviceslip.com/advice")['slip']['advice']
+try: RandomFile['RandomStuff']["CoolAdviceOfTheDay"] = RequestApi("https://api.adviceslip.com/advice")['slip']['advice'].replace('"', "'")
 except: RandomFile['RandomStuff']["CoolAdviceOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
 
-try: RandomFile['RandomStuff']["DadJokeOfTheDay"] = RequestApi("https://icanhazdadjoke.com/slack")['attachments'][0]['text']
+try: RandomFile['RandomStuff']["DadJokeOfTheDay"] = RequestApi("https://icanhazdadjoke.com/slack")['attachments'][0]['text'].replace('"', "'")
 except: RandomFile['RandomStuff']["DadJokeOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
 
-try: PersonalFile['Will']["CurrentStackOverflowReputation"] = RequestApi("https://stackoverflow.com/users/flair/12368797.json")["reputation"]
+try: PersonalFile['Will']["CurrentStackOverflowReputation"] = RequestApi("https://stackoverflow.com/users/flair/12368797.json")["reputation"].replace('"', "'")
 except: PersonalFile['Will']["CurrentStackOverflowReputation"] = Choose(PhrasesFile["ErrorMessages"])
 
 PersonalFile["Will"]["Favorites"]["Music"] = MusicFile #One day it will be real stats from the spotify API

@@ -65,11 +65,11 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When possums are playing `possum`, they are not "playing." They actually pass out from sheer terror.",
-      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
-      "DadJokeOfTheDay": "What do you call a sheep with no legs? A cloud.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe"
+      "FunFactOfTheDay": "Dueling is legal in Paraguay as long as both parties are registered blood donors.",
+      "CoolAdviceOfTheDay": "Remember that spiders are more afraid of you, than you are of them.",
+      "DadJokeOfTheDay": "My boss told me to have a good day. So I went home...",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not quite"
    }
 }
 ```
