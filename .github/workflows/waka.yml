@@ -1,4 +1,4 @@
-name: WakaStats
+name: Update README.md
 
 on:
   workflow_dispatch:
@@ -7,10 +7,16 @@ on:
 
 jobs:
   update-readme:
+    
     name: Update this repo's README
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Clone repository
+        uses: actions/checkout@v2
+            
+      - name: Generate Waka Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -21,3 +27,13 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"  
           SHOW_TIMEZONE: "False" 
           LOCALE: "en"
+          
+      - name: Generate My JSON
+        run: |
+            pip install requests
+            python scripts/Main.py
+            
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
