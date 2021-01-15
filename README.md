@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "959",
+      "CurrentStackOverflowReputation": "962",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In The Empire Strikes Back there is a potato hidden in the asteroid field",
-      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
-      "DadJokeOfTheDay": "My sea sickness comes in waves.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4tss8x.jpg"
+      "FunFactOfTheDay": "The katydid bug hears through holes in its hind legs!",
+      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
+      "DadJokeOfTheDay": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4twblk.jpg"
    }
 }
 ```
