@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "962",
+      "CurrentStackOverflowReputation": "966",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The katydid bug hears through holes in its hind legs!",
-      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
-      "DadJokeOfTheDay": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4twblk.jpg"
+      "FunFactOfTheDay": "The electric chair was invented by a dentist.",
+      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
+      "DadJokeOfTheDay": "What do you call a troublesome Canadian high schooler? A poutine.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4u14zp.jpg"
    }
 }
 ```
