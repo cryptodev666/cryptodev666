@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "966",
+      "CurrentStackOverflowReputation": "968",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The electric chair was invented by a dentist.",
-      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
-      "DadJokeOfTheDay": "What do you call a troublesome Canadian high schooler? A poutine.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4u14zp.jpg"
+      "FunFactOfTheDay": "PEZ candy even comes in a Coffee flavor.",
+      "CoolAdviceOfTheDay": "Quality beats quantity.",
+      "DadJokeOfTheDay": "I knew a guy who collected candy canes, they were all in mint condition",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4u4jxa.jpg"
    }
 }
 ```
