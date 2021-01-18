@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "968",
+      "CurrentStackOverflowReputation": "974",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,14 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "PEZ candy even comes in a Coffee flavor.",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "I knew a guy who collected candy canes, they were all in mint condition",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4u4jxa.jpg"
+      "FunFactOfTheDay": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  ",
+      "CoolAdviceOfTheDay": "YOLO",
+      "DadJokeOfTheDay": "What is the difference between ignorance and apathy?
+
+I don't know and I don't care.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4u7ykr.jpg"
    }
 }
 ```
