@@ -65,14 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  ",
-      "CoolAdviceOfTheDay": "YOLO",
-      "DadJokeOfTheDay": "What is the difference between ignorance and apathy?
-
-I don't know and I don't care.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4u7ykr.jpg"
+      "FunFactOfTheDay": "Simplistic passwords contribute to over 80% of all computer password break-ins.",
+      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
+      "DadJokeOfTheDay": "Yesterday a clown held a door open for me. I thought it was a nice jester.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4u8xom.jpg"
    }
 }
 ```
