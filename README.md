@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,012",
+      "CurrentStackOverflowReputation": "1,025",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "70% of all boats sold are used for fishing.",
-      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
-      "DadJokeOfTheDay": "How do you know if there’s an elephant under your bed? Your head hits the ceiling!",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4uh8x9.jpg"
+      "FunFactOfTheDay": "Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4ummds.jpg"
    }
 }
 ```
