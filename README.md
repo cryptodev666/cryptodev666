@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,025",
+      "CurrentStackOverflowReputation": "1,084",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Caesar salad has nothing to do with any of the Caesars. It was first concocted in a bar in Tijuana, Mexico, in the 1920`s.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4ummds.jpg"
+      "FunFactOfTheDay": "The storage capacity of human brain exceeds 4 Terabytes.",
+      "CoolAdviceOfTheDay": "Always the burrito.",
+      "DadJokeOfTheDay": "I used to work in a shoe recycling shop. It was sole destroying.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4us8cm.jpg"
    }
 }
 ```
