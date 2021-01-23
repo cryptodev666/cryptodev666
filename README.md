@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,084",
+      "CurrentStackOverflowReputation": "1,110",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The storage capacity of human brain exceeds 4 Terabytes.",
-      "CoolAdviceOfTheDay": "Always the burrito.",
-      "DadJokeOfTheDay": "I used to work in a shoe recycling shop. It was sole destroying.",
-      "IsTodayChristmas?": "Not this time",
+      "FunFactOfTheDay": "William Marston engineered one of the earliest forms of the polygraph in the early 1900`s. Later he went on to create the comic strip Wonder Woman, a story about a displaced Amazon princess who forces anyone caught in her magic lasso to tell the truth",
+      "CoolAdviceOfTheDay": "Have a firm handshake.",
+      "DadJokeOfTheDay": "How does a scientist freshen their breath? With experi-mints!",
+      "IsTodayChristmas?": "Not yet",
       "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4us8cm.jpg"
+      "RandomMemeOfTheDay": "Well well well, if i didn't put a try/except here"
    }
 }
 ```
