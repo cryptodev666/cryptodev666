@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
-      "CoolAdviceOfTheDay": "Never run with scissors.",
-      "DadJokeOfTheDay": "*Reversing the car* 'Ah, this takes me back'",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4v78bv.jpg"
+      "FunFactOfTheDay": "All US Presidents have worn glasses; some just didn`t like being seen wearing them in public.",
+      "CoolAdviceOfTheDay": "No 'brand' is your friend.",
+      "DadJokeOfTheDay": "There’s a new type of broom out, it’s sweeping the nation.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4v78s6.jpg"
    }
 }
 ```
