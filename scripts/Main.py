@@ -18,10 +18,10 @@ BirthdayPositivePhrases = PhrasesFile["Birthday"]["Yes"] + PhrasesFile["Yes"]
 
 #Functions
 def Choose(list):
-	return random.choice(list)
+  return random.choice(list)
 
 def RequestApi(url):
-	return requests.get(url=url).json()
+  return requests.get(url=url).json()
 
 #Magic from stackoverflow
 def to_json(o, level=0):
@@ -64,20 +64,29 @@ RandomFile['RandomStuff']["IsTodayChristmas?"] = Choose(ChristmasPositivePhrases
 RandomFile['RandomStuff']["IsTodayMyBirthday?"] = Choose(BirthdayPositivePhrases) if Today == "07-09" else Choose(BirthdayNegativePhrases)
 
 try: RandomFile['RandomStuff']["FunFactOfTheDay"] = RequestApi("https://uselessfacts.jsph.pl/random.json?language=en")['text'].replace('"', "'").replace('\n', ' ').replace('\r', '').replace('\n', ' ').replace('\r', '')
-except: RandomFile['RandomStuff']["FunFactOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
+except Exception as error:
+  print("FunFactOfTheDay error: " + str(error))
+  RandomFile['RandomStuff']["FunFactOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
 
 try: RandomFile['RandomStuff']["CoolAdviceOfTheDay"] = RequestApi("https://api.adviceslip.com/advice")['slip']['advice'].replace('"', "'").replace('\n', ' ').replace('\r', '')
-except: RandomFile['RandomStuff']["CoolAdviceOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
+except Exception as error:
+  print("CoolAdviceOfTheDay error: " + str(error))
+  RandomFile['RandomStuff']["CoolAdviceOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
 
 try: RandomFile['RandomStuff']["DadJokeOfTheDay"] = RequestApi("https://icanhazdadjoke.com/slack")['attachments'][0]['text'].replace('"', "'").replace('\n', ' ').replace('\r', '')
-except: RandomFile['RandomStuff']["DadJokeOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
+except Exception as error:
+  print("DadJokeOfTheDay error: " + str(error))
+  RandomFile['RandomStuff']["DadJokeOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
 
 try: PersonalFile['Will']["CurrentStackOverflowReputation"] = RequestApi("https://stackoverflow.com/users/flair/12368797.json")["reputation"].replace('"', "'")
-except: PersonalFile['Will']["CurrentStackOverflowReputation"] = Choose(PhrasesFile["ErrorMessages"])
+except Exception as error:
+  print("CurrentStackOverflowReputation error: " + str(error))
+  PersonalFile['Will']["CurrentStackOverflowReputation"] = Choose(PhrasesFile["ErrorMessages"])
+
 try: 
 
   MemeList = [meme['id'] for meme in RequestApi("https://api.imgflip.com/get_memes")['data']['memes']]
-  JokeRequest = RequestApi("https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist,explicit")
+  JokeRequest = RequestApi("https://v2.jokeapi.dev/joke/Programming,Miscellaneous,Pun,Spooky,Christmas?blacklistFlags=nsfw,religious,political,racist,sexist,explicit")
 
   RandomFile['RandomStuff']["RandomMemeOfTheDay"] = requests.post("https://api.imgflip.com/caption_image", data={
   "template_id": Choose(MemeList),
@@ -87,7 +96,9 @@ try:
   "text1": JokeRequest['delivery']
   }).json()['data']['url']
 
-except: RandomFile['RandomStuff']["RandomMemeOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
+except Exception as error:
+  print("RandomMemeOfTheDay error: " + str(error))
+  RandomFile['RandomStuff']["RandomMemeOfTheDay"] = Choose(PhrasesFile["ErrorMessages"])
 
 PersonalFile["Will"]["Favorites"]["Music"] = MusicFile #One day it will be real stats from the spotify API
 
@@ -107,5 +118,5 @@ with open('README.md', 'r', encoding="utf8") as file:
     DataTowrite = data[:start] + MyData.splitlines() + data[end:]
 
     with open('README.md', 'w', encoding="utf8") as OutFile:
-    	for item in DataTowrite:
-    		OutFile.write("%s\n" % item)
+      for item in DataTowrite:
+        OutFile.write("%s\n" % item)

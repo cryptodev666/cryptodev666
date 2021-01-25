@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,128",
+      "CurrentStackOverflowReputation": "1,126",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Men can read smaller print than women; women can hear better.",
-      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
-      "DadJokeOfTheDay": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "It's not the dev fault"
+      "FunFactOfTheDay": "Dentists have recommended that a toothbrush be kept at least 6 feet away from a toilet to avoid airborne particles resulting from the flush.",
+      "CoolAdviceOfTheDay": "Never run with scissors.",
+      "DadJokeOfTheDay": "*Reversing the car* 'Ah, this takes me back'",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4v78bv.jpg"
    }
 }
 ```
