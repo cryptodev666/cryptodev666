@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,144",
+      "CurrentStackOverflowReputation": "1,193",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Average life span of a major league baseball: 7 pitches.",
-      "CoolAdviceOfTheDay": "Stop using the term 'busy' as an excuse.",
-      "DadJokeOfTheDay": "I invented a new word! Plagiarism!",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4vgnhv.jpg"
+      "FunFactOfTheDay": "If you go blind in one eye you only lose about one fifth of your vision but all your sense of depth.",
+      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
+      "DadJokeOfTheDay": "Why is it so windy inside an arena? All those fans.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4vm48f.jpg"
    }
 }
 ```
