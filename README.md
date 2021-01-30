@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,213",
+      "CurrentStackOverflowReputation": "1,223",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
-      "CoolAdviceOfTheDay": "Don't burn bridges.",
-      "DadJokeOfTheDay": "Never take advice from electrons. They are always negative.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4vrwi8.jpg"
+      "FunFactOfTheDay": "If a rooster can`t fully extend its neck, it can`t crow.",
+      "CoolAdviceOfTheDay": "Try making a list.",
+      "DadJokeOfTheDay": "I've just written a song about a tortilla. Well, it is more of a rap really.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4vxpko.jpg"
    }
 }
 ```
