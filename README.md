@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,223",
+      "CurrentStackOverflowReputation": "1,241",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If a rooster can`t fully extend its neck, it can`t crow.",
-      "CoolAdviceOfTheDay": "Try making a list.",
-      "DadJokeOfTheDay": "I've just written a song about a tortilla. Well, it is more of a rap really.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4vxpko.jpg"
+      "FunFactOfTheDay": "Most lipstick contains fish scales!",
+      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
+      "DadJokeOfTheDay": "What's blue and not very heavy?  Light blue.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4w1whr.jpg"
    }
 }
 ```
