@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most lipstick contains fish scales!",
-      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
-      "DadJokeOfTheDay": "What's blue and not very heavy?  Light blue.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4w1whr.jpg"
+      "FunFactOfTheDay": "The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.",
+      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
+      "DadJokeOfTheDay": "What is bread's favorite number?  Leaven.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "I crashed"
    }
 }
 ```
