@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,241",
+      "CurrentStackOverflowReputation": "1,251",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.",
-      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
-      "DadJokeOfTheDay": "What is bread's favorite number?  Leaven.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "I crashed"
+      "FunFactOfTheDay": "There are 1 million ants for every human in the world.",
+      "CoolAdviceOfTheDay": "Smile and the world smiles with you. Frown and you're on your own.",
+      "DadJokeOfTheDay": "Why do you never see elephants hiding in trees? Because they're so good at it.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4wb34z.jpg"
    }
 }
 ```
