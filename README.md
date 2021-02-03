@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,251",
+      "CurrentStackOverflowReputation": "1,271",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 1 million ants for every human in the world.",
-      "CoolAdviceOfTheDay": "Smile and the world smiles with you. Frown and you're on your own.",
-      "DadJokeOfTheDay": "Why do you never see elephants hiding in trees? Because they're so good at it.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4wb34z.jpg"
+      "FunFactOfTheDay": "On average, people fear spiders more than they do death.",
+      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
+      "DadJokeOfTheDay": "Why did the man run around his bed? Because he was trying to catch up on his sleep!",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4wgj9q.jpg"
    }
 }
 ```
