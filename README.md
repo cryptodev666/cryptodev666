@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,271",
+      "CurrentStackOverflowReputation": "1,279",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If you yelled for 8 years, 7 months and 6 days, you will have produced enough sound energy to heat one cup of coffee.",
-      "CoolAdviceOfTheDay": "Don't ever name files or folders using the word 'Final'.",
-      "DadJokeOfTheDay": "Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads “Small medium at large.”",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4wltne.jpg"
+      "FunFactOfTheDay": "The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!",
+      "CoolAdviceOfTheDay": "Never pay full price for a sofa at DFS.",
+      "DadJokeOfTheDay": "What is a witch's favorite subject in school? Spelling!",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4wrpxh.jpg"
    }
 }
 ```
