@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,279",
+      "CurrentStackOverflowReputation": "1,285",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The placement of a donkey`s eyes in its` heads enables it to see all four feet at all times!",
-      "CoolAdviceOfTheDay": "Never pay full price for a sofa at DFS.",
-      "DadJokeOfTheDay": "What is a witch's favorite subject in school? Spelling!",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4wrpxh.jpg"
+      "FunFactOfTheDay": "There are more than 10 million bricks in the Empire State Building!",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "How come a man driving a train got struck by lightning? He was a good conductor.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4wwyrt.jpg"
    }
 }
 ```
