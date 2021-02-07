@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,285",
+      "CurrentStackOverflowReputation": "1,287",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more than 10 million bricks in the Empire State Building!",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "How come a man driving a train got struck by lightning? He was a good conductor.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4wwyrt.jpg"
+      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
+      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
+      "DadJokeOfTheDay": "Past, present, and future walked into a bar.... It was tense.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4x0kpn.jpg"
    }
 }
 ```
