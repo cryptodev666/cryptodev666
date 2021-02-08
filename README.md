@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Kelsey Grammar sings and plays the piano for the theme song of Fraiser.",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "Did you hear about the kidnapping at school? It's ok, he woke up.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4x4ba6.jpg"
+      "FunFactOfTheDay": "The average person falls asleep in seven minutes.",
+      "CoolAdviceOfTheDay": "Always seek out advice or opinions when making a decision.",
+      "DadJokeOfTheDay": "I got fired from a florist, apparently I took too many leaves.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4x5lzn.jpg"
    }
 }
 ```
