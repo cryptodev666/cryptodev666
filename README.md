@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
-      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
-      "DadJokeOfTheDay": "Past, present, and future walked into a bar.... It was tense.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4x0kpn.jpg"
+      "FunFactOfTheDay": "Kelsey Grammar sings and plays the piano for the theme song of Fraiser.",
+      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
+      "DadJokeOfTheDay": "Did you hear about the kidnapping at school? It's ok, he woke up.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4x4ba6.jpg"
    }
 }
 ```
