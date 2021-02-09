@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,287",
+      "CurrentStackOverflowReputation": "1,295",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person falls asleep in seven minutes.",
-      "CoolAdviceOfTheDay": "Always seek out advice or opinions when making a decision.",
-      "DadJokeOfTheDay": "I got fired from a florist, apparently I took too many leaves.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4x5lzn.jpg"
+      "FunFactOfTheDay": "The king of hearts is the only king without a mustache.",
+      "CoolAdviceOfTheDay": "Always bet on black.",
+      "DadJokeOfTheDay": "Where do sheep go to get their hair cut? The baa-baa shop.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4x9n5j.jpg"
    }
 }
 ```
