@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
-      "CoolAdviceOfTheDay": "Sometimes, you just need to say sorry. Even if it's not your fault.",
-      "DadJokeOfTheDay": "I got fired from a florist, apparently I took too many leaves.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4xyqar.jpg"
+      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
+      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
+      "DadJokeOfTheDay": "Egyptians claimed to invent the guitar, but they were such lyres.﻿",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4y2iyk.jpg"
    }
 }
 ```
