@@ -46,7 +46,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a fullstack dev",
-      "CurrentStackOverflowReputation": "1,304",
+      "CurrentStackOverflowReputation": "1,314",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The the U.S. you dial `911`. In Stockholm, Sweden you dial 90000",
-      "CoolAdviceOfTheDay": "Don't eat anything your grandparents wouldn't recognise as food.",
-      "DadJokeOfTheDay": "Egyptians claimed to invent the guitar, but they were such lyres.﻿",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4y2iyk.jpg"
+      "FunFactOfTheDay": "A Boeing 747`s wingspan is longer than the Wright brother`s first flight.",
+      "CoolAdviceOfTheDay": "As you get older, learn never to trust a fart.",
+      "DadJokeOfTheDay": "What was a more important invention than the first telephone? The second one.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4y6vlw.jpg"
    }
 }
 ```
