@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All polar bears are left-handed.",
-      "CoolAdviceOfTheDay": "Measure twice, cut once.",
-      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4ycz4t.jpg"
+      "FunFactOfTheDay": "Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.",
+      "CoolAdviceOfTheDay": "Quality beats quantity.",
+      "DadJokeOfTheDay": "What kind of award did the dentist receive? A little plaque.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4yczmq.jpg"
    }
 }
 ```
