@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ten percent of the Russian government`s income comes from the sale of vodka.",
-      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
-      "DadJokeOfTheDay": "How many seconds are in a year? 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4ybquu.jpg"
+      "FunFactOfTheDay": "All polar bears are left-handed.",
+      "CoolAdviceOfTheDay": "Measure twice, cut once.",
+      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4ycz4t.jpg"
    }
 }
 ```
