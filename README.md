@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A Boeing 747`s wingspan is longer than the Wright brother`s first flight.",
-      "CoolAdviceOfTheDay": "As you get older, learn never to trust a fart.",
-      "DadJokeOfTheDay": "What was a more important invention than the first telephone? The second one.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4y6vlw.jpg"
+      "FunFactOfTheDay": "Ten percent of the Russian government`s income comes from the sale of vodka.",
+      "CoolAdviceOfTheDay": "Taking photos with tablet devices looks weird.",
+      "DadJokeOfTheDay": "How many seconds are in a year? 12. January 2nd, February 2nd, March 2nd, April 2nd.... etc",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4ybquu.jpg"
    }
 }
 ```
