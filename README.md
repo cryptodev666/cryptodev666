@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mosquito repellents don`t repel. They hide you. The spray blocks the mosquito`s sensors so they don`t know you`re there.",
-      "CoolAdviceOfTheDay": "Quality beats quantity.",
-      "DadJokeOfTheDay": "What kind of award did the dentist receive? A little plaque.",
-      "IsTodayChristmas?": "Nope",
+      "FunFactOfTheDay": "If a rooster can`t fully extend its neck, it can`t crow.",
+      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
+      "DadJokeOfTheDay": "Whiteboards ... are remarkable.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
       "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4yczmq.jpg"
+      "RandomMemeOfTheDay": "Oh no"
    }
 }
 ```
