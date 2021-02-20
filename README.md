@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Oh no, this is akward",
-      "CoolAdviceOfTheDay": "If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.",
-      "DadJokeOfTheDay": "It's only a murder of crows if there's probable caws.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4ym1m8.jpg"
+      "FunFactOfTheDay": "The praying mantis is the only insect that can turn its head",
+      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
+      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4yr1lp.jpg"
    }
 }
 ```
