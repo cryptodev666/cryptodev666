@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The praying mantis is the only insect that can turn its head",
-      "CoolAdviceOfTheDay": "Don't give a speech. Put on a show.",
-      "DadJokeOfTheDay": "How come the stadium got hot after the game? Because all of the fans left.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4yr1lp.jpg"
+      "FunFactOfTheDay": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning 'containing arsenic.'  ",
+      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
+      "DadJokeOfTheDay": "How do robots eat guacamole? With computer chips.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4yuk47.jpg"
    }
 }
 ```
