@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Facetious and abstemious contain all the vowels in the correct order, as does arsenious, meaning 'containing arsenic.'  ",
-      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
-      "DadJokeOfTheDay": "How do robots eat guacamole? With computer chips.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4yuk47.jpg"
+      "FunFactOfTheDay": "The sweat drops drawn in cartoon comic strips are called pleuts.",
+      "CoolAdviceOfTheDay": "Make choices and dont look back.",
+      "DadJokeOfTheDay": "What do computers and air conditioners have in common? They both become useless when you open windows.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4yy2it.jpg"
    }
 }
 ```
