@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The sweat drops drawn in cartoon comic strips are called pleuts.",
-      "CoolAdviceOfTheDay": "Make choices and dont look back.",
-      "DadJokeOfTheDay": "What do computers and air conditioners have in common? They both become useless when you open windows.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4yy2it.jpg"
+      "FunFactOfTheDay": "One of the reasons marijuana is illegal today is because cotton growers in the 1930s lobbied against hemp farmers they saw it as competition.",
+      "CoolAdviceOfTheDay": "Don't assume anything is possible or impossible until you've asked the people who will be doing the work.",
+      "DadJokeOfTheDay": "Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4z36mk.jpg"
    }
 }
 ```
