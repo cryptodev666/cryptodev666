@@ -1,6 +1,6 @@
 <h1 align="center">William Brochensque Júnior 👨🏼‍💻</h1>
 
-<h5 align="center">Multiplatform developer at VMAX Digital</h5>
+<h5 align="center">Fullstack developer at VMAX Digital</h5>
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/>
 
 <p align="center">
@@ -34,6 +34,8 @@
 	<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="sublimetext" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/open_source_initiative-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="openSourceInitiative" />&nbsp;&nbsp;
 </p>
 
 <br>
