@@ -49,7 +49,7 @@
 {
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
-      "HowDoISeeMyselfIn5Years": "As a fullstack dev",
+      "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
       "CurrentStackOverflowReputation": "1,312",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
@@ -69,12 +69,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
-      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
-      "DadJokeOfTheDay": "My boss told me to have a good day... so I went home.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "Sad beep :("
+      "FunFactOfTheDay": "John Lennon`s first girlfriend was named Thelma Pickles.",
+      "CoolAdviceOfTheDay": "Don't judge a book by its cover, unless it has a synopsis on the back.",
+      "DadJokeOfTheDay": "What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4zhsm8.jpg"
    }
 }
 ```
