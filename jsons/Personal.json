@@ -11,7 +11,7 @@
             "IDE": "Sublime text",
             "Language": "Python",
             "MobileOS": "Android",
-            "Misc": ["Firebase", "Selenium", "PyQt5", "Electronics"],
+            "Misc": ["Electronics"],
             "Games": ["Chrono Trigger", "Driver: Parallel Lines", "The Legend of Zelda: The Minish Cap"]
         }
     }
