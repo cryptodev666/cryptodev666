@@ -5,10 +5,10 @@
 
 <p align="center">
 	<a href="https://gist.github.com/willnaoosmith">
-		<img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" />
+		<img src="https://img.shields.io/badge/-Gists-000?style=for-the-badge&logo=Github&logoColor=white" />
 	</a>
 	<a href="https://stackoverflow.com/users/story/12368797">
-		<img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white" />
+		<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 	</a>
 	<a href="mailto:brochensquewill@protonmail.com">
 		<img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
@@ -16,25 +16,24 @@
 	<a href="https://www.facebook.com/willnaoosmith">
 		<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
-	<a href="https://twitter.com/willnaoosmit">
-		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>
-	<a href="https://open.spotify.com/playlist/7vH3uawXW4r3mX2NNglmeI?si=Fcrr0zmITmylmWQLg5ANgQ">
-		<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
-	</a>
 </p>
 
 <br>
 
-<h4 align="center">Some technologies, languages and frameworks<h4/>
+<h4 align="center">Some Technologies, Languages, Frameworks and others<h4/>
 	
 <p align="center">
-	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactnative" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="sublimetext" />&nbsp;&nbsp;
 </p>
 
 <br>
