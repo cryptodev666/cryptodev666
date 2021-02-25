@@ -54,7 +54,7 @@
          "IDE": "Sublime text",
          "Language": "Python",
          "MobileOS": "Android",
-         "Misc": ["Firebase","Selenium","PyQt5","Electronics"],
+         "Misc": ["Electronics"],
          "Games": ["Chrono Trigger","Driver: Parallel Lines","The Legend of Zelda: The Minish Cap"],
          "Music": {
             "Genres": ["Rock","Lo-fi","Indie"],
@@ -64,12 +64,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of 'ough' in the English Language.",
-      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
-      "DadJokeOfTheDay": "Where did you learn to make ice cream? Sunday school.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4zdr44.jpg"
+      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
+      "CoolAdviceOfTheDay": "Always double check you actually attached the file to the email.",
+      "DadJokeOfTheDay": "My boss told me to have a good day... so I went home.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "Sad beep :("
    }
 }
 ```
