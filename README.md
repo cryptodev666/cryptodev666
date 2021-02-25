@@ -65,12 +65,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 1,575 steps from the ground floor to the top of the Empire State building.",
-      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
-      "DadJokeOfTheDay": "I started a new business making yachts in my attic this year...the sails are going through the roof",
+      "FunFactOfTheDay": "The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of 'ough' in the English Language.",
+      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
+      "DadJokeOfTheDay": "Where did you learn to make ice cream? Sunday school.",
       "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "Oh no"
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4zdr44.jpg"
    }
 }
 ```
