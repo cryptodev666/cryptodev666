@@ -36,7 +36,6 @@
 	<img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="sublimetext" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/sublime_text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=black" alt="sublime text" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/open_source_initiative-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="openSourceInitiative" />&nbsp;&nbsp;
 </p>
