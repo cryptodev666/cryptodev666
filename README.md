@@ -68,11 +68,11 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.",
-      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
-      "DadJokeOfTheDay": "Is there a hole in your shoe? No… Then how’d you get your foot in it?",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "One day",
+      "FunFactOfTheDay": "Porcupines can float in water.",
+      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
+      "DadJokeOfTheDay": "I ordered a chicken and an egg from Amazon. I'll let you know.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Not this time",
       "RandomMemeOfTheDay": "It's not a bug, it's a feature"
    }
 }
