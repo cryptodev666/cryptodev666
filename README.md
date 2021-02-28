@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Porcupines can float in water.",
-      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
-      "DadJokeOfTheDay": "I ordered a chicken and an egg from Amazon. I'll let you know.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "It's not a bug, it's a feature"
+      "FunFactOfTheDay": "Worcestershire sauce in essentially an Anchovy Ketchup.",
+      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
+      "DadJokeOfTheDay": "Why are basketball players messy eaters? Because they are always dribbling.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4zrppf.jpg"
    }
 }
 ```
