@@ -49,7 +49,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,312",
+      "CurrentStackOverflowReputation": "1,311",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Worcestershire sauce in essentially an Anchovy Ketchup.",
-      "CoolAdviceOfTheDay": "The more ideas that you give away, the more ideas that will come to you.",
-      "DadJokeOfTheDay": "Why are basketball players messy eaters? Because they are always dribbling.",
+      "FunFactOfTheDay": "Length of beard an average man would grow if he never shaved 27.5 feet",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
+      "DadJokeOfTheDay": "For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.",
       "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4zrppf.jpg"
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4zv8qr.jpg"
    }
 }
 ```
