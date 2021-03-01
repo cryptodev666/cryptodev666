@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On average, Americans eat 18 acres of pizza everyday.",
-      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
-      "DadJokeOfTheDay": "Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4zwk74.jpg"
+      "FunFactOfTheDay": "Mount Olympus Mons on Mars is three times the size of Mount Everest.",
+      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
+      "DadJokeOfTheDay": "What is the leading cause of dry skin? Towels",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4zwpko.jpg"
    }
 }
 ```
