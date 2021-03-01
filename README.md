@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person falls asleep in seven minutes.",
-      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
-      "DadJokeOfTheDay": "My friend said to me: 'What rhymes with orange' I said: 'no it doesn't'",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4zwjih.jpg"
+      "FunFactOfTheDay": "On average, Americans eat 18 acres of pizza everyday.",
+      "CoolAdviceOfTheDay": "If you get stuck, try doing the opposite of what the solution requires.",
+      "DadJokeOfTheDay": "Hear about the new restaurant called Karma? There’s no menu: You get what you deserve.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/4zwk74.jpg"
    }
 }
 ```
