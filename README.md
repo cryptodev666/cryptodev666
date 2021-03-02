@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Mount Olympus Mons on Mars is three times the size of Mount Everest.",
-      "CoolAdviceOfTheDay": "If you're feeling tired or anxious, a pint of water will almost always make you feel better.",
-      "DadJokeOfTheDay": "What is the leading cause of dry skin? Towels",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/4zwpko.jpg"
+      "FunFactOfTheDay": "In The Empire Strikes Back there is a potato hidden in the asteroid field",
+      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
+      "DadJokeOfTheDay": "What did the grape do when he got stepped on? He let out a little wine.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/500cam.jpg"
    }
 }
 ```
