@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  ",
-      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
-      "DadJokeOfTheDay": "I went to a book store and asked the saleswoman where the Self Help section was, she said if she told me it would defeat the purpose.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/505mo0.jpg"
+      "FunFactOfTheDay": "70% of all boats sold are used for fishing.",
+      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
+      "DadJokeOfTheDay": "Ever wondered why bees hum? It's because they don't know the words.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "It's not the dev fault"
    }
 }
 ```
