@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "70% of all boats sold are used for fishing.",
-      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
-      "DadJokeOfTheDay": "Ever wondered why bees hum? It's because they don't know the words.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "It's not the dev fault"
+      "FunFactOfTheDay": "The storage capacity of human brain exceeds 4 Terabytes.",
+      "CoolAdviceOfTheDay": "A nod is as good as a wink to a blind horse.",
+      "DadJokeOfTheDay": "How many South Americans does it take to change a lightbulb? A Brazilian",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/50gg2x.jpg"
    }
 }
 ```
