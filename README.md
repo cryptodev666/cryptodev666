@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 1986 Congress & President Ronald Reagan signed Public Law 99-359, which changed Daylight Saving Time from the last Sunday in April to the first Sunday in April.  It was estimated to save the nation about 300,000 barrels of oil each year by adding most of the month April to D.S.T.",
-      "CoolAdviceOfTheDay": "You will always regret the round of JÃ¤germeister.",
-      "DadJokeOfTheDay": "I gave my friend 10 puns hoping that one of them would make him laugh. Sadly, no pun in ten did.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "Looks like someone needs to repair their code now"
+      "FunFactOfTheDay": "The Human eyes never grow, but nose and ears never stop growing.",
+      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
+      "DadJokeOfTheDay": "What do you call a boy who stopped digging holes? Douglas.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/50p2vs.jpg"
    }
 }
 ```
