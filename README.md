@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Human eyes never grow, but nose and ears never stop growing.",
-      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
-      "DadJokeOfTheDay": "What do you call a boy who stopped digging holes? Douglas.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/50p2vs.jpg"
+      "FunFactOfTheDay": "The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.",
+      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
+      "DadJokeOfTheDay": "Did you hear about the campsite that got visited by Bigfoot? It got in tents.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/50sl2r.jpg"
    }
 }
 ```
