@@ -49,7 +49,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,309",
+      "CurrentStackOverflowReputation": "1,319",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The very first song played on MTV was `Video Killed The Radio Star` by the Buggles.",
-      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
-      "DadJokeOfTheDay": "Did you hear about the campsite that got visited by Bigfoot? It got in tents.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/50sl2r.jpg"
+      "FunFactOfTheDay": "the bird is the word",
+      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
+      "DadJokeOfTheDay": "Where do sheep go to get their hair cut? The baa-baa shop.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/50xjox.jpg"
    }
 }
 ```
