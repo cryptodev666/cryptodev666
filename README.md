@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "the bird is the word",
-      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
-      "DadJokeOfTheDay": "Where do sheep go to get their hair cut? The baa-baa shop.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/50xjox.jpg"
+      "FunFactOfTheDay": "Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.",
+      "CoolAdviceOfTheDay": "To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.",
+      "DadJokeOfTheDay": "Did you hear about the kidnapping at school? It's ok, he woke up.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/512qso.jpg"
    }
 }
 ```
