@@ -40,7 +40,12 @@
 	<img src="https://img.shields.io/badge/open_source_initiative-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="openSourceInitiative" />&nbsp;&nbsp;
 </p>
 
-<br>
+</br>
+<p align="center">
+	<img src="https://spotify-github-profile.vercel.app/api/view?uid=12181824518&cover_image=false&theme=default" />
+</p>
+
+</br>
 
 <!--START_SECTION:mydata-->
 
