@@ -68,12 +68,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Cranberries are sorted for ripeness by bouncing them; a fully ripened cranberry can be dribbled like a basketball.  ",
-      "CoolAdviceOfTheDay": "State the problem in words as clearly as possible.",
-      "DadJokeOfTheDay": "I'd like to start a diet, but I've got too much on my plate right now.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "Oh no"
+      "FunFactOfTheDay": "The average person spends 6 months of their life sitting at red lights.",
+      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
+      "DadJokeOfTheDay": "What do prisoners use to call each other? Cell phones.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/519ft4.jpg"
    }
 }
 ```
