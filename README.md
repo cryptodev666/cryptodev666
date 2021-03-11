@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person spends 6 months of their life sitting at red lights.",
-      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
-      "DadJokeOfTheDay": "What do prisoners use to call each other? Cell phones.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/519ft4.jpg"
+      "FunFactOfTheDay": "Months that begin on a Sunday will always have a `Friday the 13th`.",
+      "CoolAdviceOfTheDay": "Don't always believe what you think.",
+      "DadJokeOfTheDay": "Sore throats are a pain in the neck!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/519ip0.jpg"
    }
 }
 ```
