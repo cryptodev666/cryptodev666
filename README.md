@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Months that begin on a Sunday will always have a `Friday the 13th`.",
+      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
       "CoolAdviceOfTheDay": "Don't always believe what you think.",
-      "DadJokeOfTheDay": "Sore throats are a pain in the neck!",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/519ip0.jpg"
+      "DadJokeOfTheDay": "What did one wall say to the other wall? I'll meet you at the corner!",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/51doyo.jpg"
    }
 }
 ```
