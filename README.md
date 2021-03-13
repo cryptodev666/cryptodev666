@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are more plastic flamingos in the U.S that there are real ones.",
-      "CoolAdviceOfTheDay": "Don't always believe what you think.",
-      "DadJokeOfTheDay": "What did one wall say to the other wall? I'll meet you at the corner!",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/51doyo.jpg"
+      "FunFactOfTheDay": "The name of the girl on the statue of liberty is Mother of Exiles.",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "What do you call a monkey in a mine field? A babooooom! ",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "Looks like someone needs to repair their code now"
    }
 }
 ```
