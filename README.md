@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name of the girl on the statue of liberty is Mother of Exiles.",
-      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
-      "DadJokeOfTheDay": "What do you call a monkey in a mine field? A babooooom! ",
+      "FunFactOfTheDay": "The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.",
+      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
+      "DadJokeOfTheDay": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
       "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "Looks like someone needs to repair their code now"
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/51mk9h.jpg"
    }
 }
 ```
