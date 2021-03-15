@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The scene where Indiana Jones shoots the swordsman in Raider’s of the Lost Ark was Harrison Ford's idea so that he could take a bathroom break.",
-      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
-      "DadJokeOfTheDay": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/51mk9h.jpg"
+      "FunFactOfTheDay": "For some time Frederic Chopin, the composer and pianist, wore a beard on only one side of his face, explaining: 'It does not matter, my audience sees only my right side.'",
+      "CoolAdviceOfTheDay": "When you look around and don't see anyone you respect, its time to leave.",
+      "DadJokeOfTheDay": "Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/51q9t1.jpg"
    }
 }
 ```
