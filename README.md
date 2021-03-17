@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A dragonfly has a lifespan of 24 hours.",
-      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
-      "DadJokeOfTheDay": "This morning I was wondering where the sun was, but then it dawned on me.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "Sad beep :("
+      "FunFactOfTheDay": "In every episode of Seinfeld there is a Superman somewhere.",
+      "CoolAdviceOfTheDay": "Don't take life too seriously.",
+      "DadJokeOfTheDay": "Never take advice from electrons. They are always negative.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "It's not the dev fault"
    }
 }
 ```
