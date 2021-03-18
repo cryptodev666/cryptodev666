@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In every episode of Seinfeld there is a Superman somewhere.",
-      "CoolAdviceOfTheDay": "Don't take life too seriously.",
-      "DadJokeOfTheDay": "Never take advice from electrons. They are always negative.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "It's not the dev fault"
+      "FunFactOfTheDay": "The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  ",
+      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
+      "DadJokeOfTheDay": "Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/525lh3.jpg"
    }
 }
 ```
