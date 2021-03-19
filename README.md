@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,318",
+      "CurrentStackOverflowReputation": "1,328",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The letters KGB stand for Komitet Gosudarstvennoy Bezopasnosti.  ",
-      "CoolAdviceOfTheDay": "If you think your headphones are dying, check the socket for fluff with a straightened paperclip.",
-      "DadJokeOfTheDay": "Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/525lh3.jpg"
+      "FunFactOfTheDay": "The sperm of a mouse is actually longer than the sperm of an elephant.",
+      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
+      "DadJokeOfTheDay": "'I'll call you later.' Don't call me later, call me Dad.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "Looks like someone needs to repair their code now"
    }
 }
 ```
