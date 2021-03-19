@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The sperm of a mouse is actually longer than the sperm of an elephant.",
-      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
-      "DadJokeOfTheDay": "'I'll call you later.' Don't call me later, call me Dad.",
-      "IsTodayChristmas?": "I dont know",
+      "FunFactOfTheDay": "Poland is the 'stolen car capital of the world'.",
+      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
+      "DadJokeOfTheDay": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
+      "IsTodayChristmas?": "!Yes",
       "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "Looks like someone needs to repair their code now"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/52e1rk.jpg"
    }
 }
 ```
