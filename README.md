@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,328",
+      "CurrentStackOverflowReputation": "1,327",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Poland is the 'stolen car capital of the world'.",
-      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
-      "DadJokeOfTheDay": "What's the difference between a poorly dressed man on a tricycle and a well dressed man on a bicycle? Attire.",
+      "FunFactOfTheDay": "Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.",
+      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
+      "DadJokeOfTheDay": "When you have a bladder infection, urine trouble.",
       "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/52e1rk.jpg"
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "Oh no, this is akward"
    }
 }
 ```
