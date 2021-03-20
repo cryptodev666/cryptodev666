@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Celery has negative calories! It takes more calories to eat a piece of celery than the celery has in it.",
-      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
-      "DadJokeOfTheDay": "When you have a bladder infection, urine trouble.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "Oh no, this is akward"
+      "FunFactOfTheDay": "The average American looks at eight houses before buying one.",
+      "CoolAdviceOfTheDay": "Once you find a really good friend don't do anything that could mess up your friendship.",
+      "DadJokeOfTheDay": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?  Doctor: No, humans can never hear that high of a frequency no matter what age they are.  Me: Trick question... dogs can't whistle.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/52ibgq.jpg"
    }
 }
 ```
