@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average American looks at eight houses before buying one.",
-      "CoolAdviceOfTheDay": "Once you find a really good friend don't do anything that could mess up your friendship.",
-      "DadJokeOfTheDay": "Me: If humans lose the ability to hear high frequency volumes as they get older, can my 4 week old son hear a dog whistle?  Doctor: No, humans can never hear that high of a frequency no matter what age they are.  Me: Trick question... dogs can't whistle.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/52ibgq.jpg"
+      "FunFactOfTheDay": "You can`t kill yourself by holding your breath.  ",
+      "CoolAdviceOfTheDay": "When painting a room, preparation is key. The actual painting should account for about 40% of the work.",
+      "DadJokeOfTheDay": "Why did the belt go to prison? He held up a pair of pants!",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/52jb01.jpg"
    }
 }
 ```
