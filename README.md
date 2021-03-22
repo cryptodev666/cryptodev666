@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,327",
+      "CurrentStackOverflowReputation": "1,337",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You can`t kill yourself by holding your breath.  ",
-      "CoolAdviceOfTheDay": "When painting a room, preparation is key. The actual painting should account for about 40% of the work.",
-      "DadJokeOfTheDay": "Why did the belt go to prison? He held up a pair of pants!",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/52jb01.jpg"
+      "FunFactOfTheDay": "A pregnant goldfish is called a twit.",
+      "CoolAdviceOfTheDay": "Mercy is the better part of justice.",
+      "DadJokeOfTheDay": "So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. ",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/52mrfs.jpg"
    }
 }
 ```
