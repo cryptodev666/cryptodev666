@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A pregnant goldfish is called a twit.",
-      "CoolAdviceOfTheDay": "Mercy is the better part of justice.",
-      "DadJokeOfTheDay": "So, I heard this pun about cows, but it’s kinda offensive so I won’t say it. I don’t want there to be any beef between us. ",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/52mrfs.jpg"
+      "FunFactOfTheDay": "A duck`s quack doesn`t echo, and no one knows why.",
+      "CoolAdviceOfTheDay": "Don't give to others advice which you wouldn't follow.",
+      "DadJokeOfTheDay": "What do you call a bear with no teeth? A gummy bear!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/52rn28.jpg"
    }
 }
 ```
