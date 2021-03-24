@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,337",
+      "CurrentStackOverflowReputation": "1,335",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A duck`s quack doesn`t echo, and no one knows why.",
-      "CoolAdviceOfTheDay": "Don't give to others advice which you wouldn't follow.",
-      "DadJokeOfTheDay": "What do you call a bear with no teeth? A gummy bear!",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/52rn28.jpg"
+      "FunFactOfTheDay": "Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. ",
+      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
+      "DadJokeOfTheDay": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/52wq37.jpg"
    }
 }
 ```
