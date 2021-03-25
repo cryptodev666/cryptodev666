@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. ",
-      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
-      "DadJokeOfTheDay": "I dreamed about drowning in an ocean made out of orange soda last night. It took me a while to work out it was just a Fanta sea.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/52wq37.jpg"
+      "FunFactOfTheDay": "It`s against the law to doze off under a hair dryer in Florida/against the law to slap an old friend on the back in Georgia/against the law to Play hopscotch on a Sunday in Missouri.",
+      "CoolAdviceOfTheDay": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+      "DadJokeOfTheDay": "How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/531wu4.jpg"
    }
 }
 ```
