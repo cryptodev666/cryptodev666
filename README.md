@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "China has more English speakers than the United States.",
-      "CoolAdviceOfTheDay": "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.",
-      "DadJokeOfTheDay": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "Sad beep :("
+      "FunFactOfTheDay": "The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.",
+      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
+      "DadJokeOfTheDay": "This furniture store keeps emailing me, all I wanted was one night stand!",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/53ck24.jpg"
    }
 }
 ```
