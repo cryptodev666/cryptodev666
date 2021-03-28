@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.",
-      "CoolAdviceOfTheDay": "Try to pay at least one person a compliment every day.",
-      "DadJokeOfTheDay": "This furniture store keeps emailing me, all I wanted was one night stand!",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/53ck24.jpg"
+      "FunFactOfTheDay": "Rhode Island is the only state which the hammer throw is a legal high school sport.",
+      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
+      "DadJokeOfTheDay": "What do you call an Argentinian with a rubber toe? Roberto",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/53g550.jpg"
    }
 }
 ```
