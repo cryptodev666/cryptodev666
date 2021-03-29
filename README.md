@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Rhode Island is the only state which the hammer throw is a legal high school sport.",
-      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
-      "DadJokeOfTheDay": "What do you call an Argentinian with a rubber toe? Roberto",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/53g550.jpg"
+      "FunFactOfTheDay": "The average person will accidentally eat just under a pound of insects every year.",
+      "CoolAdviceOfTheDay": "Quality beats quantity.",
+      "DadJokeOfTheDay": "How do robots eat guacamole? With computer chips.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "It's not a bug, it's a feature"
    }
 }
 ```
