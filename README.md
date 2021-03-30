@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person spends about two years on the phone in a lifetime.",
-      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
-      "DadJokeOfTheDay": "Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/53ktov.jpg"
+      "FunFactOfTheDay": "The eyes of a donkey are positioned so that it can see all four feet at all times.",
+      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
+      "DadJokeOfTheDay": "Camping is intense.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/53oxom.jpg"
    }
 }
 ```
