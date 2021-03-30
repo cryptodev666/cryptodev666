@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The eyes of a donkey are positioned so that it can see all four feet at all times.",
-      "CoolAdviceOfTheDay": "Be brave. Even if you're not, pretend to be. No one can tell the difference.",
-      "DadJokeOfTheDay": "Camping is intense.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/53oxom.jpg"
+      "FunFactOfTheDay": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
+      "CoolAdviceOfTheDay": "Smile and the world smiles with you. Frown and you're on your own.",
+      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/53q26f.jpg"
    }
 }
 ```
