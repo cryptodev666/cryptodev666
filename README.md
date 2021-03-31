@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It has NEVER rained in Calama, a town in the Atacama Desert of Chile.",
-      "CoolAdviceOfTheDay": "Smile and the world smiles with you. Frown and you're on your own.",
-      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/53q26f.jpg"
+      "FunFactOfTheDay": "In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.",
+      "CoolAdviceOfTheDay": "Winter is coming.",
+      "DadJokeOfTheDay": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/53tz4r.jpg"
    }
 }
 ```
