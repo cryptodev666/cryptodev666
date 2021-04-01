@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.",
-      "CoolAdviceOfTheDay": "Winter is coming.",
-      "DadJokeOfTheDay": "Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/53tz4r.jpg"
+      "FunFactOfTheDay": "Nutmeg is extremely poisonous if injected intravenously.",
+      "CoolAdviceOfTheDay": "Smile and the world smiles with you. Frown and you're on your own.",
+      "DadJokeOfTheDay": "I had a dream that I was a muffler last night. I woke up exhausted!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "It's not the dev fault"
    }
 }
 ```
