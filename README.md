@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest place-name still in use is: Taumatawhakatangihangakoauauotamateaturipukakapikimaungahoronukupokaiakitnatahu, a New Zealand hill.  ",
-      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
-      "DadJokeOfTheDay": "Did you hear about the kidnapping at school? It's ok, he woke up.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/543znc.jpg"
+      "FunFactOfTheDay": "The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.",
+      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
+      "DadJokeOfTheDay": "What musical instrument is found in the bathroom? A tuba toothpaste.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/547ya9.jpg"
    }
 }
 ```
