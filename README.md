@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average talker sprays about 300 microscopic saliva droplets per minute, about 2.5 droplets per word.",
-      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
-      "DadJokeOfTheDay": "What musical instrument is found in the bathroom? A tuba toothpaste.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/547ya9.jpg"
+      "FunFactOfTheDay": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s 'Its A Wonderful Life.'",
+      "CoolAdviceOfTheDay": "Once you find a really good friend don't do anything that could mess up your friendship.",
+      "DadJokeOfTheDay": "What do you call a group of disorganized cats? A cat-tastrophe.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "Looks like someone needs to repair their code now"
    }
 }
 ```
