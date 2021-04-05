@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The characters Bert and Ernie on Sesame Street were named after Bert the cop and Ernie the taxi driver in Frank Capra`s 'Its A Wonderful Life.'",
-      "CoolAdviceOfTheDay": "Once you find a really good friend don't do anything that could mess up your friendship.",
-      "DadJokeOfTheDay": "What do you call a group of disorganized cats? A cat-tastrophe.",
+      "FunFactOfTheDay": "On the ground, a group of geese is a gaggle, in the sky it is a skein.",
+      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
+      "DadJokeOfTheDay": "What is the tallest building in the world? The library – it’s got the most stories!",
       "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "Looks like someone needs to repair their code now"
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/54eou4.jpg"
    }
 }
 ```
