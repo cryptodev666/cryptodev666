@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,344",
+      "CurrentStackOverflowReputation": "1,354",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On the ground, a group of geese is a gaggle, in the sky it is a skein.",
-      "CoolAdviceOfTheDay": "If it still itches after a week, go to the doctors.",
-      "DadJokeOfTheDay": "What is the tallest building in the world? The library – it’s got the most stories!",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/54eou4.jpg"
+      "FunFactOfTheDay": "101 Dalmatians, Peter Pan, Lady and the Tramp, and Mulan are the only Disney cartoons where both parents are present and don`t die throughout the movie.",
+      "CoolAdviceOfTheDay": "Respect your elders.",
+      "DadJokeOfTheDay": "Two parrots are sitting on a perch. One turns to the other and asks, 'do you smell fish?'",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/54itpw.jpg"
    }
 }
 ```
