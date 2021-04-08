@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Vatican city registered 0 births in 1983",
-      "CoolAdviceOfTheDay": "Keep it simple.",
-      "DadJokeOfTheDay": "What did the fish say when it swam into a wall? Damn!",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/54nml4.jpg"
+      "FunFactOfTheDay": "Walt Disney was afraid of mice.",
+      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
+      "DadJokeOfTheDay": "What kind of pants do ghosts wear? Boo jeans.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/54sksy.jpg"
    }
 }
 ```
