@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Walt Disney was afraid of mice.",
-      "CoolAdviceOfTheDay": "Drink a glass of water before meals.",
-      "DadJokeOfTheDay": "What kind of pants do ghosts wear? Boo jeans.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/54sksy.jpg"
+      "FunFactOfTheDay": "Most collect calls are made on father`s day.",
+      "CoolAdviceOfTheDay": "Do not compare yourself with others.",
+      "DadJokeOfTheDay": "Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "Not beep boop :("
    }
 }
 ```
