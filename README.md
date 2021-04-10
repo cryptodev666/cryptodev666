@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most collect calls are made on father`s day.",
-      "CoolAdviceOfTheDay": "Do not compare yourself with others.",
-      "DadJokeOfTheDay": "Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "Not beep boop :("
+      "FunFactOfTheDay": "Studies show that if a cat falls off the seventh floor of a building it has about thirty percent less chance of surviving than a cat that falls off the twentieth floor. It supposedly takes about eight floors for the cat to realize what is occurring, relax and correct itself.",
+      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
+      "DadJokeOfTheDay": "“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "Sad beep :("
    }
 }
 ```
