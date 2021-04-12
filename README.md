@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Canada makes up 6.67 percent of the Earth`s land area",
-      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
-      "DadJokeOfTheDay": "Why did the fireman wear red, white, and blue suspenders? To hold his pants up.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/556604.jpg"
+      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
+      "CoolAdviceOfTheDay": "Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.",
+      "DadJokeOfTheDay": "Without geometry life is pointless.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "Oh no"
    }
 }
 ```
