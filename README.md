@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It`s possible to lead a cow upstairs but not downstairs.",
-      "CoolAdviceOfTheDay": "Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.",
-      "DadJokeOfTheDay": "Without geometry life is pointless.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "Oh no"
+      "FunFactOfTheDay": "The name for Oz in the 'Wizard of Oz' was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name 'OZ.'",
+      "CoolAdviceOfTheDay": "Learn from your mistakes.",
+      "DadJokeOfTheDay": "It’s hard to explain puns to kleptomaniacs, because they take everything literally.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/55ask8.jpg"
    }
 }
 ```
