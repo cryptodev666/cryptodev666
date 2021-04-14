@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,348",
+      "CurrentStackOverflowReputation": "1,358",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A giraffe can go without water longer than a camel.",
-      "CoolAdviceOfTheDay": "Always bet on black.",
-      "DadJokeOfTheDay": "I just wrote a book on reverse psychology. Do not read it!",
+      "FunFactOfTheDay": "Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. ",
+      "CoolAdviceOfTheDay": "Don't always believe what you think.",
+      "DadJokeOfTheDay": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
       "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/55en1i.jpg"
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/55jqfw.jpg"
    }
 }
 ```
