@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Fictional/horror writer Stephen King sleeps with a nearby light on to calm his fear of the dark. ",
-      "CoolAdviceOfTheDay": "Don't always believe what you think.",
-      "DadJokeOfTheDay": "Every night at 11:11, I make a wish that someone will come fix my broken clock.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/55jqfw.jpg"
+      "FunFactOfTheDay": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.",
+      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
+      "DadJokeOfTheDay": "For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "It's not a bug, it's a feature"
    }
 }
 ```
