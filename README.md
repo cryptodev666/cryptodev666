@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the marriage ceremony of the ancient Inca Indians of Peru, the couple was considered officially wed when they took off their sandals and handed them to each other.",
-      "CoolAdviceOfTheDay": "Eat food. Not too much, mostly plants.",
-      "DadJokeOfTheDay": "For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "It's not a bug, it's a feature"
+      "FunFactOfTheDay": "If the population of China walked past you in single file, the line would never end because of the rate of reproduction.",
+      "CoolAdviceOfTheDay": "If you have the chance, take it!",
+      "DadJokeOfTheDay": "Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/55swos.jpg"
    }
 }
 ```
