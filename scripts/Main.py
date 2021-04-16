@@ -92,8 +92,8 @@ try:
   "template_id": Choose(MemeList),
   "username": sys.argv[1],
   "password": sys.argv[2],
-  "text0": JokeRequest['setup'],
-  "text1": JokeRequest['delivery']
+  "text0": JokeRequest['setup'] if 'setup' in JokeRequest else JokeRequest['joke'],
+  "text1": JokeRequest['delivery'] if 'delivery' in JokeRequest else " "
   }).json()['data']['url']
 
 except Exception as error:
