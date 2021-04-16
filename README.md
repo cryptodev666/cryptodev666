@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If the population of China walked past you in single file, the line would never end because of the rate of reproduction.",
-      "CoolAdviceOfTheDay": "If you have the chance, take it!",
-      "DadJokeOfTheDay": "Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/55swos.jpg"
+      "FunFactOfTheDay": "To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.",
+      "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
+      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "Oh no, this is akward"
    }
 }
 ```
