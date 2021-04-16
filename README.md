@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.",
-      "CoolAdviceOfTheDay": "The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.",
-      "DadJokeOfTheDay": "Breaking news! Energizer Bunny arrested – charged with battery.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "Oh no, this is akward"
+      "FunFactOfTheDay": "Leonardo Da Vinci invented the scissors.",
+      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
+      "DadJokeOfTheDay": "Somebody stole my Microsoft Office and they're going to pay - you have my Word.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/55wuhq.jpg"
    }
 }
 ```
