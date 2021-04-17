@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Leonardo Da Vinci invented the scissors.",
-      "CoolAdviceOfTheDay": "You can fail at what you don't want. So you might as well take a chance on doing what you love.",
-      "DadJokeOfTheDay": "Somebody stole my Microsoft Office and they're going to pay - you have my Word.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/55wuhq.jpg"
+      "FunFactOfTheDay": "The katydid bug hears through holes in its hind legs!",
+      "CoolAdviceOfTheDay": "Try to do the things that you're incapable of.",
+      "DadJokeOfTheDay": "Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5614jh.jpg"
    }
 }
 ```
