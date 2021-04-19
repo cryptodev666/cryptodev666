@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Honey is the only food which does not spoil.",
-      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
-      "DadJokeOfTheDay": "A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/564qn6.jpg"
+      "FunFactOfTheDay": "Shakespeare invented the word `assassination` and `bump`.",
+      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
+      "DadJokeOfTheDay": "If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5686yh.jpg"
    }
 }
 ```
