@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare invented the word `assassination` and `bump`.",
-      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
-      "DadJokeOfTheDay": "If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5686yh.jpg"
+      "FunFactOfTheDay": "China has more English speakers than the United States.",
+      "CoolAdviceOfTheDay": "One of the single best things about being an adult, is being able to buy as much LEGO as you want.",
+      "DadJokeOfTheDay": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/56d8em.jpg"
    }
 }
 ```
