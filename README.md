@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "China has more English speakers than the United States.",
-      "CoolAdviceOfTheDay": "One of the single best things about being an adult, is being able to buy as much LEGO as you want.",
-      "DadJokeOfTheDay": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
+      "FunFactOfTheDay": "A rainbow can be seen only in the morning or late afternoon. It can occur only when the sun is 40 degrees or less above the horizon.",
+      "CoolAdviceOfTheDay": "Sometimes it's best to ignore other people's advice.",
+      "DadJokeOfTheDay": "I invented a new word! Plagiarism!",
       "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/56d8em.jpg"
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/56igf9.jpg"
    }
 }
 ```
