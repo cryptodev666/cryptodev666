@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Napoleon`s penis was sold to an American Urologist for $40,000.",
-      "CoolAdviceOfTheDay": "Try to not compliment people on things they don't control.",
-      "DadJokeOfTheDay": "What do bees do after they are married? They go on a honeymoon.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/56sr7s.jpg"
+      "FunFactOfTheDay": "Clownfish, wrasses, moray eels, gobies and other fish species are known to change sex, including reproductive functions. A school of clownfish is always built into a hierarchy with a female fish at the top. When she dies, the most dominant male changes sex and takes her place.",
+      "CoolAdviceOfTheDay": "Walking is a perfectly valid solution to traffic congestion problems.",
+      "DadJokeOfTheDay": "“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/56xr8d.jpg"
    }
 }
 ```
