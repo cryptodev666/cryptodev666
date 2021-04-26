@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "%60 of all people using the Internet, use it for pornography.",
-      "CoolAdviceOfTheDay": "Identify sources of happiness.",
-      "DadJokeOfTheDay": "I used to work for a soft drink can crusher. It was soda pressing.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5712bx.jpg"
+      "FunFactOfTheDay": "Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  ",
+      "CoolAdviceOfTheDay": "Be a good lover.",
+      "DadJokeOfTheDay": "I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/574j1i.jpg"
    }
 }
 ```
