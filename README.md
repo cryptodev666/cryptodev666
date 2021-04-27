@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,358",
+      "CurrentStackOverflowReputation": "1,368",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  ",
-      "CoolAdviceOfTheDay": "Be a good lover.",
-      "DadJokeOfTheDay": "I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/574j1i.jpg"
+      "FunFactOfTheDay": "Barbie`s full name is Barbara Millicent Roberts.",
+      "CoolAdviceOfTheDay": "When something goes wrong in life, just shout 'plot twist!' and carry on.",
+      "DadJokeOfTheDay": "What do you call a magician who has lost their magic? Ian.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/579cyf.jpg"
    }
 }
 ```
