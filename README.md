@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Ninety percent of all species that have become extinct have been birds.",
-      "CoolAdviceOfTheDay": "Don't wear clean trousers when walking your dog in the park.",
-      "DadJokeOfTheDay": "What do you call an alligator in a vest? An in-vest-igator!",
-      "IsTodayChristmas?": "Yes'nt",
+      "FunFactOfTheDay": "The word Pennsylvania is misspelled on the Liberty Bell.",
+      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
+      "DadJokeOfTheDay": "What did the ocean say to the shore? Nothing, it just waved.",
+      "IsTodayChristmas?": "One day",
       "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/57oyj1.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/57q27i.jpg"
    }
 }
 ```
