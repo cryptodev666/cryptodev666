@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word Pennsylvania is misspelled on the Liberty Bell.",
-      "CoolAdviceOfTheDay": "One of the top five regrets people have is that they didn't stay in contact with friends.",
-      "DadJokeOfTheDay": "What did the ocean say to the shore? Nothing, it just waved.",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/57q27i.jpg"
+      "FunFactOfTheDay": "Barbie`s measurements, if she were life-size, would be 39-29-33.",
+      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
+      "DadJokeOfTheDay": "What do you call a guy lying on your doorstep? Matt.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/57u0is.jpg"
    }
 }
 ```
