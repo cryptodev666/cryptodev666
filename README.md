@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Barbie`s measurements, if she were life-size, would be 39-29-33.",
-      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
-      "DadJokeOfTheDay": "What do you call a guy lying on your doorstep? Matt.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/57u0is.jpg"
+      "FunFactOfTheDay": "The world record for spitting a watermelon seed is 65 feet 4 inches.",
+      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
+      "DadJokeOfTheDay": "Want to hear a chimney joke? Got stacks of em! First one's on the house",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "Oh no"
    }
 }
 ```
