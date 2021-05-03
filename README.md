@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The world record for spitting a watermelon seed is 65 feet 4 inches.",
-      "CoolAdviceOfTheDay": "Alway do anything for love, but don't do that.",
-      "DadJokeOfTheDay": "Want to hear a chimney joke? Got stacks of em! First one's on the house",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "Oh no"
+      "FunFactOfTheDay": "A pregnant goldfish is called a twit.",
+      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
+      "DadJokeOfTheDay": "Just watched a documentary about beavers… It was the best damn program I’ve ever seen.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/580wcs.jpg"
    }
 }
 ```
