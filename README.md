@@ -64,21 +64,21 @@
          "Language": "Python",
          "MobileOS": "Android",
          "Misc": ["Electronics"],
-         "Games": ["Chrono Trigger","Driver: Parallel Lines","The Legend of Zelda: The Minish Cap"],
+         "Games": ["Chrono Trigger","Driver: Parallel Lines","Super Smash Brothers Melee"],
          "Music": {
             "Genres": ["Rock","Lo-fi","Indie"],
-            "Songs": ["Bad caracther - quasimodo","Goodbye weekend - Mac de marco","Future People - Alabama shakes"],
-            "Artists": ["Mac de marco","Raimundos","Jinsang"]
+            "Songs": ["Bad caracther - quasimodo","Goodbye weekend - Mac de marco","Reggae do Maneiro - Raimundos"],
+            "Artists": ["Mac Demarco","Raimundos","Jinsang"]
          }
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'Checkmate' in chess comes from the Persian phrase 'Shah Mat,' which means 'the king is dead.'",
-      "CoolAdviceOfTheDay": "Once you find a really good friend don't do anything that could mess up your friendship.",
-      "DadJokeOfTheDay": "Why don’t skeletons ever go trick or treating? Because they have nobody to go with.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/585r3r.jpg"
+      "FunFactOfTheDay": "The plastic things on the end of shoelaces are called aglets.",
+      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
+      "DadJokeOfTheDay": "It's only a murder of crows if there's probable caws.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/588flw.jpg"
    }
 }
 ```
