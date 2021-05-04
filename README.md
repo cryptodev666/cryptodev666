@@ -120,3 +120,7 @@ Linux                    12 hrs 29 mins      ███████████�
 
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=willnaoosmith&color=fb760b&label=Visitors" alt="js" />
+</p>
