@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The plastic things on the end of shoelaces are called aglets.",
-      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
-      "DadJokeOfTheDay": "It's only a murder of crows if there's probable caws.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/588flw.jpg"
+      "FunFactOfTheDay": "Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.",
+      "CoolAdviceOfTheDay": "YOLO",
+      "DadJokeOfTheDay": "Past, present, and future walked into a bar.... It was tense.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/58b34c.jpg"
    }
 }
 ```
