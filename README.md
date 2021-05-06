@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.",
-      "CoolAdviceOfTheDay": "YOLO",
-      "DadJokeOfTheDay": "Past, present, and future walked into a bar.... It was tense.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/58b34c.jpg"
+      "FunFactOfTheDay": "Honeybees have a type of hair on their eyes!",
+      "CoolAdviceOfTheDay": "Never cut your own fringe.",
+      "DadJokeOfTheDay": "“My Dog has no nose.” “How does he smell?” “Awful”",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/58g7rt.jpg"
    }
 }
 ```
