@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Honeybees have a type of hair on their eyes!",
-      "CoolAdviceOfTheDay": "Never cut your own fringe.",
-      "DadJokeOfTheDay": "“My Dog has no nose.” “How does he smell?” “Awful”",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/58g7rt.jpg"
+      "FunFactOfTheDay": "An ostrich`s eye is bigger than its brain.  ",
+      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
+      "DadJokeOfTheDay": "Why did the tree go to the dentist? It needed a root canal.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "I crashed"
    }
 }
 ```
