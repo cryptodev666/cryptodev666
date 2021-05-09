@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  ",
-      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
-      "DadJokeOfTheDay": "How does Darth Vader like his toast? On the dark side.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/58qgaj.jpg"
+      "FunFactOfTheDay": "The Great Wall of China is the only man-made structure visible from space.",
+      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
+      "DadJokeOfTheDay": "Why is it so windy inside an arena? All those fans.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/58tumk.jpg"
    }
 }
 ```
