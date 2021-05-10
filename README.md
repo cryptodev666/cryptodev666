@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Great Wall of China is the only man-made structure visible from space.",
-      "CoolAdviceOfTheDay": "You're not that important; it's what you do that counts.",
-      "DadJokeOfTheDay": "Why is it so windy inside an arena? All those fans.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/58tumk.jpg"
+      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
+      "CoolAdviceOfTheDay": "Never run a marathon in Crocs.",
+      "DadJokeOfTheDay": "I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank. I have no words to describe how angry I am.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/58x9k5.jpg"
    }
 }
 ```
