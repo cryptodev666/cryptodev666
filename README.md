@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,401",
+      "CurrentStackOverflowReputation": "1,411",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.",
-      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
-      "DadJokeOfTheDay": "Which side of the chicken has more feathers? The outside.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5926ct.jpg"
+      "FunFactOfTheDay": "Canada makes up 6.67 percent of the Earth`s land area",
+      "CoolAdviceOfTheDay": "Smile and the world smiles with you. Frown and you're on your own.",
+      "DadJokeOfTheDay": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/597esg.jpg"
    }
 }
 ```
