@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 336 dimples on a regulation golf ball.",
-      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
-      "DadJokeOfTheDay": "Shout out to my grandma, that's the only way she can hear.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/59clz4.jpg"
+      "FunFactOfTheDay": "A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.",
+      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
+      "DadJokeOfTheDay": "Why was Pavlov's beard so soft?  Because he conditioned it.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/59dm8q.jpg"
    }
 }
 ```
