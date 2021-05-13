@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Canada makes up 6.67 percent of the Earth`s land area",
-      "CoolAdviceOfTheDay": "Smile and the world smiles with you. Frown and you're on your own.",
-      "DadJokeOfTheDay": "If a child refuses to sleep during nap time, are they guilty of resisting a rest?",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/597esg.jpg"
+      "FunFactOfTheDay": "There are 336 dimples on a regulation golf ball.",
+      "CoolAdviceOfTheDay": "Don't always rely on your comforts.",
+      "DadJokeOfTheDay": "Shout out to my grandma, that's the only way she can hear.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/59clz4.jpg"
    }
 }
 ```
