@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A raisin dropped in a glass of fresh champagne will bounce up and down continually from the bottom of the glass to the top.",
-      "CoolAdviceOfTheDay": "There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.",
-      "DadJokeOfTheDay": "Why was Pavlov's beard so soft?  Because he conditioned it.",
+      "FunFactOfTheDay": "If one spells out numbers, they would have to count to One Thousand before coming across the letter 'A'.",
+      "CoolAdviceOfTheDay": "Everybody makes mistakes.",
+      "DadJokeOfTheDay": "I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.",
       "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/59dm8q.jpg"
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/59hjj9.jpg"
    }
 }
 ```
