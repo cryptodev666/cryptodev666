@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,411",
+      "CurrentStackOverflowReputation": "1,413",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "If one spells out numbers, they would have to count to One Thousand before coming across the letter 'A'.",
-      "CoolAdviceOfTheDay": "Everybody makes mistakes.",
-      "DadJokeOfTheDay": "I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/59hjj9.jpg"
+      "FunFactOfTheDay": "Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/59kuss.jpg"
    }
 }
 ```
