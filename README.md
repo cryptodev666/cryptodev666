@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.",
-      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
-      "DadJokeOfTheDay": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/59kuss.jpg"
+      "FunFactOfTheDay": "When possums are playing `possum`, they are not 'playing.' They actually pass out from sheer terror.",
+      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
+      "DadJokeOfTheDay": "A panda walks into a bar and says to the bartender “I’ll have a Scotch and . . . . . . . . . . . . . . Coke thank you”.   “Sure thing” the bartender replies and asks “but what’s with the big pause?”   The panda holds up his hands and says “I was born with them”",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/59mb2s.jpg"
    }
 }
 ```
