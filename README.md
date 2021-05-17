@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.",
-      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
-      "DadJokeOfTheDay": "What do you call a beehive without the b's? An eehive.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/59ppa4.jpg"
+      "FunFactOfTheDay": "The sperm of a mouse is actually longer than the sperm of an elephant.",
+      "CoolAdviceOfTheDay": "If you need cheering up, try searching online for photos of kittens.",
+      "DadJokeOfTheDay": "Mahatma Gandhi, as you know, walked barefoot most of the time, which produced an impressive set of calluses on his feet.  He also ate very little, which made him rather frail and with his odd diet, he suffered from bad breath.  This made him a super calloused fragile mystic hexed by halitosis.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/59t4im.jpg"
    }
 }
 ```
