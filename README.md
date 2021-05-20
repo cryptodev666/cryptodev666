@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,412",
+      "CurrentStackOverflowReputation": "1,422",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When you sneeze, air and particles travel through the nostrils at speeds over100 mph.  During this time, all bodily functions stop, including your heart, contributing to the impossibility of keeping one`s eyes open during a sneeze.",
-      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
-      "DadJokeOfTheDay": "What creature is smarter than a talking parrot? A spelling bee.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5a37ze.jpg"
+      "FunFactOfTheDay": "Poland is the 'stolen car capital of the world'.",
+      "CoolAdviceOfTheDay": "It is easy to sit up and take notice, what's difficult is getting up and taking action.",
+      "DadJokeOfTheDay": "Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5a8egv.jpg"
    }
 }
 ```
