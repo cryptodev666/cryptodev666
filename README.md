@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Well well well, if i didn't put a try/except here",
-      "CoolAdviceOfTheDay": "When in doubt, just take the next small step.",
-      "DadJokeOfTheDay": "What kind of dinosaur loves to sleep? A stega-snore-us.",
+      "FunFactOfTheDay": "Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.",
+      "CoolAdviceOfTheDay": "Respect your elders.",
+      "DadJokeOfTheDay": "Why are pirates called pirates? Because they arrr!",
       "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5adjur.jpg"
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5aidsc.jpg"
    }
 }
 ```
