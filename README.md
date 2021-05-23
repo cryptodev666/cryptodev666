@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Former basketball superstar Michael Jordan is the most recognized face in the world, more than the pope himself.",
-      "CoolAdviceOfTheDay": "Respect your elders.",
-      "DadJokeOfTheDay": "Why are pirates called pirates? Because they arrr!",
+      "FunFactOfTheDay": "Only one person in two billion will live to be 116 or older.",
+      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
+      "DadJokeOfTheDay": "The first time I got a universal remote control I thought to myself, 'This changes everything'",
       "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5aidsc.jpg"
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5alrqt.jpg"
    }
 }
 ```
