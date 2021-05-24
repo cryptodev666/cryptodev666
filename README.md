@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only one person in two billion will live to be 116 or older.",
-      "CoolAdviceOfTheDay": "If you want to be happily married, marry a happy person.",
-      "DadJokeOfTheDay": "The first time I got a universal remote control I thought to myself, 'This changes everything'",
-      "IsTodayChristmas?": "Ask me in one hour",
+      "FunFactOfTheDay": "The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.",
+      "IsTodayChristmas?": "Maybe",
       "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5alrqt.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ap5tp.jpg"
    }
 }
 ```
