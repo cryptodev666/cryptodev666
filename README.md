@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A person cannot taste food unless it is mixed with saliva. For example, if a strong-tasting substance like salt is placed on a dry tongue, the taste buds will not be able to taste it. As soon as a drop of saliva is added and the salt is dissolved, however, a definite taste sensation results. This is true for all foods.",
-      "CoolAdviceOfTheDay": "The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.",
-      "DadJokeOfTheDay": "Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5atqfq.jpg"
+      "FunFactOfTheDay": "Walt Disney holds the world record for the most Academy Awards won by one person, he has won twenty statuettes, and twelve other plaques and certificates",
+      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
+      "DadJokeOfTheDay": "I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ayr9o.jpg"
    }
 }
 ```
