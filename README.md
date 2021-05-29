@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only two days of the year in which there are no professional sports games--MLB, NBA, NHL, or NFL--are the day before and the day after the Major League All-Star Game.",
-      "CoolAdviceOfTheDay": "Everyone has their down days. Don't take it out on innocent bystanders.",
-      "DadJokeOfTheDay": "Hostess: Do you have a preference of where you sit? Dad: Down.",
+      "FunFactOfTheDay": "If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.",
+      "CoolAdviceOfTheDay": "Don't take life too seriously.",
+      "DadJokeOfTheDay": "Did you hear the one about the guy with the broken hearing aid? Neither did he.",
       "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5b8xk3.jpg"
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5bdljh.jpg"
    }
 }
 ```
