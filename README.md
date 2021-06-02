@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,422",
+      "CurrentStackOverflowReputation": "1,432",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The Black Widow spider eats her mate during or after sex.",
-      "CoolAdviceOfTheDay": "Don't take it personally.",
-      "DadJokeOfTheDay": "My New Years resolution is to stop leaving things so late.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5bnzti.jpg"
+      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
+      "CoolAdviceOfTheDay": "Make choices and dont look back.",
+      "DadJokeOfTheDay": "Milk is also the fastest liquid on earth – its pasteurized before you even see it",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5bspk3.jpg"
    }
 }
 ```
