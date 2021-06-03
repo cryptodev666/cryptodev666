@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Only 6 people in the whole world have died from moshing.",
-      "CoolAdviceOfTheDay": "Make choices and dont look back.",
-      "DadJokeOfTheDay": "Milk is also the fastest liquid on earth – its pasteurized before you even see it",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5bspk3.jpg"
+      "FunFactOfTheDay": "The king of hearts is the only king without a mustache.",
+      "CoolAdviceOfTheDay": "Identify sources of happiness.",
+      "DadJokeOfTheDay": "Man, I really love my furniture... me and my recliner go way back.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5bxdaj.jpg"
    }
 }
 ```
