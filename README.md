@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person spends 6 months of their life sitting at red lights.",
-      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
-      "DadJokeOfTheDay": "What did the scarf say to the hat? You go on ahead, I am going to hang around a bit longer.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not yet",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5c1xqa.jpg"
+      "FunFactOfTheDay": "On an American one-dollar bill, there is an owl in the upper left-hand corner of the '1'encased in the 'shield' and a spider hidden in the front upper right-hand corner.",
+      "CoolAdviceOfTheDay": "The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.",
+      "DadJokeOfTheDay": "What animal is always at a game of cricket? A bat.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5c6bzt.jpg"
    }
 }
 ```
