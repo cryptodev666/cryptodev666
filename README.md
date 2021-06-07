@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,442",
+      "CurrentStackOverflowReputation": "1,452",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average woman consumes 6 lbs of lipstick in her lifetime.",
-      "CoolAdviceOfTheDay": "Age is of no importance, unless you are a cheese.",
-      "DadJokeOfTheDay": "What do vegetarian zombies eat? Grrrrrainnnnnssss.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5c9gfo.jpg"
+      "FunFactOfTheDay": "Because of the rotation of the earth, an object can be thrown farther if it is thrown west.",
+      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
+      "DadJokeOfTheDay": "A man is washing the car with his son. The son asks...... 'Dad, can’t you just use a sponge?'",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Not yet",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ccqct.jpg"
    }
 }
 ```
