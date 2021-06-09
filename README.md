@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Kelsey Grammar sings and plays the piano for the theme song of Fraiser.",
-      "CoolAdviceOfTheDay": "Don't waste food.",
-      "DadJokeOfTheDay": "My cat was just sick on the carpet, I don’t think it’s feline well.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ch8r5.jpg"
+      "FunFactOfTheDay": "The male gypsy moth can 'smell' the virgin female gypsy moth from 1.8 miles away.  ",
+      "CoolAdviceOfTheDay": "Always block trolls.",
+      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5clwfj.jpg"
    }
 }
 ```
