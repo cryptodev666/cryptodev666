@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The male gypsy moth can 'smell' the virgin female gypsy moth from 1.8 miles away.  ",
-      "CoolAdviceOfTheDay": "Always block trolls.",
-      "DadJokeOfTheDay": "You know what they say about cliffhangers...",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5clwfj.jpg"
+      "FunFactOfTheDay": "Pinocchio is Italian for 'pine head.'",
+      "CoolAdviceOfTheDay": "Plant a tree.",
+      "DadJokeOfTheDay": "What did the piece of bread say to the knife? Butter me up.",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5cqluu.jpg"
    }
 }
 ```
