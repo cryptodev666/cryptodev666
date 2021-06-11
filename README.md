@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Pinocchio is Italian for 'pine head.'",
-      "CoolAdviceOfTheDay": "Plant a tree.",
-      "DadJokeOfTheDay": "What did the piece of bread say to the knife? Butter me up.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5cqluu.jpg"
+      "FunFactOfTheDay": "Most American car horns honk in the key of F.",
+      "CoolAdviceOfTheDay": "Big things have small beginnings.",
+      "DadJokeOfTheDay": "Some people eat light bulbs. They say it's a nice light snack.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5cvcet.jpg"
    }
 }
 ```
