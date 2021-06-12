@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most American car horns honk in the key of F.",
-      "CoolAdviceOfTheDay": "Big things have small beginnings.",
-      "DadJokeOfTheDay": "Some people eat light bulbs. They say it's a nice light snack.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5cvcet.jpg"
+      "FunFactOfTheDay": "To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.",
+      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
+      "DadJokeOfTheDay": "If two vegans are having an argument, is it still considered beef?",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5czvtt.jpg"
    }
 }
 ```
