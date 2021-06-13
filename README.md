@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To Ensure Promptness, one is expected to pay beyond the value of service – hence the later abbreviation: T.I.P.",
-      "CoolAdviceOfTheDay": "It's not about who likes you, it's about who you like.",
-      "DadJokeOfTheDay": "If two vegans are having an argument, is it still considered beef?",
-      "IsTodayChristmas?": "Not quite",
+      "FunFactOfTheDay": "Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.",
+      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
+      "DadJokeOfTheDay": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
       "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5czvtt.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5d30pz.jpg"
    }
 }
 ```
