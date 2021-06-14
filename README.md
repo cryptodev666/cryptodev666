@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Each king in a deck of playing cards represents a great king from history. Spades - King David, Clubs - Alexander the Great, Hearts - Charlemagne, and Diamonds - Julius Caesar.",
-      "CoolAdviceOfTheDay": "Don't use Excel or Powerpoint documents for your basic word processing needs.",
-      "DadJokeOfTheDay": "What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "FunFactOfTheDay": "Most dust particles in your house are made from dead skin.",
+      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
+      "DadJokeOfTheDay": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
+      "IsTodayChristmas?": "Not yet",
       "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5d30pz.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5d6au5.jpg"
    }
 }
 ```
