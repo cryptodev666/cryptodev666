@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Most dust particles in your house are made from dead skin.",
-      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
-      "DadJokeOfTheDay": "Two satellites decided to get married. The wedding wasn't much, but the reception was incredible.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5d6au5.jpg"
+      "FunFactOfTheDay": "Iceland consumes more Coca-Cola per capita than any other nation.",
+      "CoolAdviceOfTheDay": "Do not seek praise, seek criticism.",
+      "DadJokeOfTheDay": "Did you hear about the campsite that got visited by Bigfoot? It got in tents.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5dary1.jpg"
    }
 }
 ```
