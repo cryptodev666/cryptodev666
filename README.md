@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,452",
+      "CurrentStackOverflowReputation": "1,462",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name Jeep came from the abbreviation used in the army. G.P. for `General Purpose` vehicle.",
-      "CoolAdviceOfTheDay": "Never waste an opportunity to tell someone you love them.",
-      "DadJokeOfTheDay": "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5dff6v.jpg"
+      "FunFactOfTheDay": "There is a town in Newfoundland, Canada called Dildo.",
+      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
+      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5dk0uo.jpg"
    }
 }
 ```
