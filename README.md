@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There is a town in Newfoundland, Canada called Dildo.",
-      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
-      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5dk0uo.jpg"
+      "FunFactOfTheDay": "You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.",
+      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
+      "DadJokeOfTheDay": "I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5dopks.jpg"
    }
 }
 ```
