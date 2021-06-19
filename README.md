@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "You can be fined up to $1,000 for whistling on Sunday in Salt Lake City, Utah.",
-      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
-      "DadJokeOfTheDay": "I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5dopks.jpg"
+      "FunFactOfTheDay": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
+      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
+      "DadJokeOfTheDay": "What do you call a pig that knows karate? A pork chop!",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5dt25t.jpg"
    }
 }
 ```
