@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In 1980, a Las Vegas hospital suspended workers for betting on when patients would die.",
-      "CoolAdviceOfTheDay": "To improve productivity, always have a shittier task to put off.",
-      "DadJokeOfTheDay": "What do you call a pig that knows karate? A pork chop!",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5dt25t.jpg"
+      "FunFactOfTheDay": "A bull can inseminate 300 cows from one single ejaculation.",
+      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
+      "DadJokeOfTheDay": "When is a door not a door? When it's ajar.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5dw68c.jpg"
    }
 }
 ```
