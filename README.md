@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A bull can inseminate 300 cows from one single ejaculation.",
-      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
-      "DadJokeOfTheDay": "When is a door not a door? When it's ajar.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5dw68c.jpg"
+      "FunFactOfTheDay": "Tigers not only have striped fur, they have striped skin!",
+      "CoolAdviceOfTheDay": "If you think nobody cares if you're alive, try missing a few payments.",
+      "DadJokeOfTheDay": "I am so good at sleeping I can do it with my eyes closed!",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5dzd6n.jpg"
    }
 }
 ```
