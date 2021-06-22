@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,462",
+      "CurrentStackOverflowReputation": "1,464",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Tigers not only have striped fur, they have striped skin!",
-      "CoolAdviceOfTheDay": "If you think nobody cares if you're alive, try missing a few payments.",
-      "DadJokeOfTheDay": "I am so good at sleeping I can do it with my eyes closed!",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5dzd6n.jpg"
+      "FunFactOfTheDay": "When possums are playing `possum`, they are not 'playing.' They actually pass out from sheer terror.",
+      "CoolAdviceOfTheDay": "Big things have small beginnings.",
+      "DadJokeOfTheDay": "What do you call a cow with two legs? Lean beef.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5e3ivj.jpg"
    }
 }
 ```
