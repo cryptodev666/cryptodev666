@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "When possums are playing `possum`, they are not 'playing.' They actually pass out from sheer terror.",
-      "CoolAdviceOfTheDay": "Big things have small beginnings.",
-      "DadJokeOfTheDay": "What do you call a cow with two legs? Lean beef.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5e3ivj.jpg"
+      "FunFactOfTheDay": "The value of Pi will be officially 'rounded down' to 3.14 from 3.14159265359 on December 31, 1999.",
+      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
+      "DadJokeOfTheDay": "The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5e7vu1.jpg"
    }
 }
 ```
