@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The value of Pi will be officially 'rounded down' to 3.14 from 3.14159265359 on December 31, 1999.",
-      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
-      "DadJokeOfTheDay": "The other day, my wife asked me to pass her lipstick but I accidentally passed her a glue stick. She still isn't talking to me.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5e7vu1.jpg"
+      "FunFactOfTheDay": "The word 'Checkmate' in chess comes from the Persian phrase 'Shah Mat,' which means 'the king is dead.'",
+      "CoolAdviceOfTheDay": "Always block trolls.",
+      "DadJokeOfTheDay": "Whiteboards ... are remarkable.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5e8wak.jpg"
    }
 }
 ```
