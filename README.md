@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The word 'Checkmate' in chess comes from the Persian phrase 'Shah Mat,' which means 'the king is dead.'",
-      "CoolAdviceOfTheDay": "Always block trolls.",
-      "DadJokeOfTheDay": "Whiteboards ... are remarkable.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5e8wak.jpg"
+      "FunFactOfTheDay": "To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.",
+      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
+      "DadJokeOfTheDay": "Have you ever heard of a music group called Cellophane? They mostly wrap.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ec8q3.jpg"
    }
 }
 ```
