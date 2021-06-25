@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.",
-      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
-      "DadJokeOfTheDay": "Have you ever heard of a music group called Cellophane? They mostly wrap.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ec8q3.jpg"
+      "FunFactOfTheDay": "Any free-moving liquid in outer space will form itself into a sphere, because of its surface tension.",
+      "CoolAdviceOfTheDay": "If you have grandparents or parents - Talk to them more. Ask them about their life experiences.",
+      "DadJokeOfTheDay": "Two muffins were sitting in an oven, and the first looks over to the second, and says, “man, it’s really hot in here”. The second looks over at the first with a surprised look, and answers, “WHOA, a talking muffin!”",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5egp32.jpg"
    }
 }
 ```
