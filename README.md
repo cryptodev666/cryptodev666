@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,464",
+      "CurrentStackOverflowReputation": "1,458",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Who`s that playing the piano on the 'Mad About You' theme? Paul Reiser himself.",
-      "CoolAdviceOfTheDay": "Sarcasm is the lowest form of wit. Employ correctly with apt timing.",
-      "DadJokeOfTheDay": "So a duck walks into a pharmacy and says “Give me some chap-stick… and put it on my bill”",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ekxi6.jpg"
+      "FunFactOfTheDay": "Leonardo Da Vinci invented the scissors.",
+      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
+      "DadJokeOfTheDay": "What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5enymk.jpg"
    }
 }
 ```
