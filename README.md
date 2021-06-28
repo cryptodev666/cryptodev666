@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,458",
+      "CurrentStackOverflowReputation": "1,456",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Leonardo Da Vinci invented the scissors.",
-      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
-      "DadJokeOfTheDay": "What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5enymk.jpg"
+      "FunFactOfTheDay": "Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.",
+      "CoolAdviceOfTheDay": "Learn to handle criticism.",
+      "DadJokeOfTheDay": "“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5er1gt.jpg"
    }
 }
 ```
