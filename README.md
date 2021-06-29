@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.",
-      "CoolAdviceOfTheDay": "Learn to handle criticism.",
-      "DadJokeOfTheDay": "“Hold on, I have something in my shoe”  “I’m pretty sure it’s a foot”",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5er1gt.jpg"
+      "FunFactOfTheDay": "The most common street name in the U.S. is Second Street.",
+      "CoolAdviceOfTheDay": "Once in a while, eat some sweets you used to enjoy when you were younger.",
+      "DadJokeOfTheDay": "What does an angry pepper do? It gets jalapeño face.",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ev1bs.jpg"
    }
 }
 ```
