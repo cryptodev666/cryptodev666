@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The most common street name in the U.S. is Second Street.",
-      "CoolAdviceOfTheDay": "Once in a while, eat some sweets you used to enjoy when you were younger.",
-      "DadJokeOfTheDay": "What does an angry pepper do? It gets jalapeño face.",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ev1bs.jpg"
+      "FunFactOfTheDay": "The only nation whose name begins with an 'A', but doesn`t end in an 'A' is Afghanistan.",
+      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
+      "DadJokeOfTheDay": "Why was the robot angry? Because someone kept pressing his buttons!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ez75f.jpg"
    }
 }
 ```
