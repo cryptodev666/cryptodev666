@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only nation whose name begins with an 'A', but doesn`t end in an 'A' is Afghanistan.",
-      "CoolAdviceOfTheDay": "Pedantry is fine, unless you're on the receiving end. And not a pedant.",
-      "DadJokeOfTheDay": "Why was the robot angry? Because someone kept pressing his buttons!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ez75f.jpg"
+      "FunFactOfTheDay": "The name for Oz in the 'Wizard of Oz' was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name 'OZ.'",
+      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
+      "DadJokeOfTheDay": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5f3d34.jpg"
    }
 }
 ```
