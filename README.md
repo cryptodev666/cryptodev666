@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name for Oz in the 'Wizard of Oz' was thought up when the creator, Frank Baum, looked at his filing cabinet and saw A-N, and O-Z; hence the name 'OZ.'",
-      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
-      "DadJokeOfTheDay": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
+      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments.",
+      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
+      "DadJokeOfTheDay": "Why is the ocean always blue? Because the shore never waves back.",
       "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5f3d34.jpg"
+      "IsTodayMyBirthday?": "Yes'nt",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5f7gan.jpg"
    }
 }
 ```
