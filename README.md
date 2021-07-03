@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The San Francisco Cable cars are the only mobile National Monuments.",
-      "CoolAdviceOfTheDay": "Do a bit more for your friends.",
-      "DadJokeOfTheDay": "Why is the ocean always blue? Because the shore never waves back.",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Yes'nt",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5f7gan.jpg"
+      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
+      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
+      "DadJokeOfTheDay": "Egyptians claimed to invent the guitar, but they were such lyres.﻿",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5fbccc.jpg"
    }
 }
 ```
