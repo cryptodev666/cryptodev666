@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It has been estimated that humans use only 10% of their brain.",
-      "CoolAdviceOfTheDay": "When hugging, hug with both arms and apply reasonable, affectionate pressure.",
-      "DadJokeOfTheDay": "Egyptians claimed to invent the guitar, but they were such lyres.﻿",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5fbccc.jpg"
+      "FunFactOfTheDay": "38% of American men say they love their cars more than women",
+      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
+      "DadJokeOfTheDay": "Why do birds fly south for the winter? Because it's too far to walk.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5feajc.jpg"
    }
 }
 ```
