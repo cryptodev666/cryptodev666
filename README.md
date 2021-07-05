@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "38% of American men say they love their cars more than women",
-      "CoolAdviceOfTheDay": "Enjoy a little nonsense now and then.",
-      "DadJokeOfTheDay": "Why do birds fly south for the winter? Because it's too far to walk.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5feajc.jpg"
+      "FunFactOfTheDay": "During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.",
+      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
+      "DadJokeOfTheDay": "Why do wizards clean their teeth three times a day? To prevent bat breath!",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5fh7q1.jpg"
    }
 }
 ```
