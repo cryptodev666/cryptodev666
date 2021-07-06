@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "During a severe windstorm or rainstorm the Empire State Building sways several feet to either side.",
+      "FunFactOfTheDay": "A goldfish has a memory span of three seconds.  ",
       "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
-      "DadJokeOfTheDay": "Why do wizards clean their teeth three times a day? To prevent bat breath!",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5fh7q1.jpg"
+      "DadJokeOfTheDay": "How do you steal a coat? You jacket.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5fkmqs.jpg"
    }
 }
 ```
