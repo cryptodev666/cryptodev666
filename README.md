@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,456",
+      "CurrentStackOverflowReputation": "1,466",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A goldfish has a memory span of three seconds.  ",
-      "CoolAdviceOfTheDay": "Life is better when you sing about bananas.",
-      "DadJokeOfTheDay": "How do you steal a coat? You jacket.",
-      "IsTodayChristmas?": "!Yes",
+      "FunFactOfTheDay": "Between 2 and 3 jockeys are killed each year in horse racing.",
+      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
+      "DadJokeOfTheDay": "I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank. I have no words to describe how angry I am.",
+      "IsTodayChristmas?": "No",
       "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5fkmqs.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5foinj.jpg"
    }
 }
 ```
