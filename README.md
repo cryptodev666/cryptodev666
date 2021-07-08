@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Between 2 and 3 jockeys are killed each year in horse racing.",
-      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
-      "DadJokeOfTheDay": "I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank. I have no words to describe how angry I am.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5foinj.jpg"
+      "FunFactOfTheDay": "The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.",
+      "CoolAdviceOfTheDay": "Repeat people's names when you meet them.",
+      "DadJokeOfTheDay": "Why do wizards clean their teeth three times a day? To prevent bat breath!",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5fskdx.jpg"
    }
 }
 ```
