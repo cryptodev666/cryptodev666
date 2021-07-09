@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.",
-      "CoolAdviceOfTheDay": "Repeat people's names when you meet them.",
-      "DadJokeOfTheDay": "Why do wizards clean their teeth three times a day? To prevent bat breath!",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5fskdx.jpg"
+      "FunFactOfTheDay": "In the White House, there are 13,092 knives, forks and spoons!",
+      "CoolAdviceOfTheDay": "If you are ever in doubt about whether or not to wash your hair: Wash it.",
+      "DadJokeOfTheDay": "What did the shy pebble wish for? That she was a little boulder.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5fwo34.jpg"
    }
 }
 ```
