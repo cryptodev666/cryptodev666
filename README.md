@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the White House, there are 13,092 knives, forks and spoons!",
-      "CoolAdviceOfTheDay": "If you are ever in doubt about whether or not to wash your hair: Wash it.",
-      "DadJokeOfTheDay": "What did the shy pebble wish for? That she was a little boulder.",
-      "IsTodayChristmas?": "Maybe another time",
+      "FunFactOfTheDay": "The first episode of 'Joanie Loves Chachi' was the highest rated American program in the history of Korean television, a country where 'Chachi' translates to 'penis'.  ",
+      "CoolAdviceOfTheDay": "Never let your Mother cut your hair.",
+      "DadJokeOfTheDay": "How do you organize a space party? You planet.",
+      "IsTodayChristmas?": "!Yes",
       "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5fwo34.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5g0jo4.jpg"
    }
 }
 ```
