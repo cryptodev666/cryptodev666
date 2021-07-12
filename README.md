@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,466",
+      "CurrentStackOverflowReputation": "1,476",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average person`s left hand does 56% of the typing.",
-      "CoolAdviceOfTheDay": "Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.",
-      "DadJokeOfTheDay": "What's red and bad for your teeth? A Brick.",
-      "IsTodayChristmas?": "Maybe",
+      "FunFactOfTheDay": "Most toilets flush in E flat.",
+      "CoolAdviceOfTheDay": "Don't take it personally.",
+      "DadJokeOfTheDay": "What did the calculator say to the student? You can count on me.",
+      "IsTodayChristmas?": "Nope",
       "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5g3hvi.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5g6od5.jpg"
    }
 }
 ```
