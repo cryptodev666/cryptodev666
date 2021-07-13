@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the last 4000 years, no new animals have been domesticated.",
-      "CoolAdviceOfTheDay": "Do something selfless.",
-      "DadJokeOfTheDay": "Did you hear about the cheese factory that exploded in France? There was nothing left but de Brie.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5g9i4x.jpg"
+      "FunFactOfTheDay": "A snail can sleep for three years.",
+      "CoolAdviceOfTheDay": "It's unlucky to be superstitious.",
+      "DadJokeOfTheDay": "Is there a hole in your shoe? No… Then how’d you get your foot in it?",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5gajg0.jpg"
    }
 }
 ```
