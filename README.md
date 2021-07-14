@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A snail can sleep for three years.",
-      "CoolAdviceOfTheDay": "It's unlucky to be superstitious.",
-      "DadJokeOfTheDay": "Is there a hole in your shoe? No… Then how’d you get your foot in it?",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5gajg0.jpg"
+      "FunFactOfTheDay": "In Disney`s Fantasia, the Sorcerer`s name is 'Yensid' (Disney backwards.)",
+      "CoolAdviceOfTheDay": "Work is never as important as you think it is.",
+      "DadJokeOfTheDay": "What is a vampire's favorite fruit? A blood orange.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5gejoo.jpg"
    }
 }
 ```
