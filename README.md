@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To 'testify' was based on men in the Roman court swearing to a statement made by swearing on their testicles.",
-      "CoolAdviceOfTheDay": "It always seems impossible, until it's done.",
-      "DadJokeOfTheDay": "For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5giliu.jpg"
+      "FunFactOfTheDay": "Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.",
+      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
+      "DadJokeOfTheDay": "Coffee has a tough time at my house, every morning it gets mugged.",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5gmnlv.jpg"
    }
 }
 ```
