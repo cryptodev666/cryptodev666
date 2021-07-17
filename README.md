@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,476",
+      "CurrentStackOverflowReputation": "1,484",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.",
-      "CoolAdviceOfTheDay": "Happiness is a journey, not a destination.",
-      "DadJokeOfTheDay": "Coffee has a tough time at my house, every morning it gets mugged.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5gmnlv.jpg"
+      "FunFactOfTheDay": "A crocodile cannot stick its tongue out.",
+      "CoolAdviceOfTheDay": "Don't promise what you can't deliver.",
+      "DadJokeOfTheDay": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5gqj5a.jpg"
    }
 }
 ```
