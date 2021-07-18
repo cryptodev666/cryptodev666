@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A crocodile cannot stick its tongue out.",
-      "CoolAdviceOfTheDay": "Don't promise what you can't deliver.",
-      "DadJokeOfTheDay": "What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5gqj5a.jpg"
+      "FunFactOfTheDay": "In every episode of Seinfeld there is a Superman somewhere.",
+      "CoolAdviceOfTheDay": "Mercy is the better part of justice.",
+      "DadJokeOfTheDay": "I applied to be a doorman but didn't get the job due to lack of experience. That surprised me, I thought it was an entry level position.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5gub2x.jpg"
    }
 }
 ```
