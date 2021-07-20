@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of 'ough' in the English Language.",
-      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
-      "DadJokeOfTheDay": "I hate perforated lines, they're tearable.",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5gxb1e.jpg"
+      "FunFactOfTheDay": "On average, Americans` favorite smell is banana.",
+      "CoolAdviceOfTheDay": "A long walk alone with some time to think, can work wonders.",
+      "DadJokeOfTheDay": "Want to hear my pizza joke? Never mind, it's too cheesy.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5h11us.jpg"
    }
 }
 ```
