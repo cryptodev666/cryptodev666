@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "On average, Americans` favorite smell is banana.",
-      "CoolAdviceOfTheDay": "A long walk alone with some time to think, can work wonders.",
-      "DadJokeOfTheDay": "Want to hear my pizza joke? Never mind, it's too cheesy.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5h11us.jpg"
+      "FunFactOfTheDay": "A signature is called a John Hancock because he signed the Declaration of Independence. Only 2 people signed the declaration of independence on July 4. The Last person signed 2 years later.",
+      "CoolAdviceOfTheDay": "Everybody makes mistakes.",
+      "DadJokeOfTheDay": "I've been trying to come up with a dad joke about momentum . . . but I just can't seem to get it going.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5h4xkw.jpg"
    }
 }
 ```
