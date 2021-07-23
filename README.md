@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "It is illegal to hunt camels in the state of Arizona.",
-      "CoolAdviceOfTheDay": "Don't let the bastards grind you down.",
-      "DadJokeOfTheDay": "Why did the tomato blush? Because it saw the salad dressing.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5h8umd.jpg"
+      "FunFactOfTheDay": "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
+      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
+      "DadJokeOfTheDay": "Whiteboards ... are remarkable.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5hcqw4.jpg"
    }
 }
 ```
