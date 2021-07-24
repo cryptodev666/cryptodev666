@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Shakespeare is quoted 33,150 times in the Oxford English dictionary.",
-      "CoolAdviceOfTheDay": "You don't need to floss all of your teeth. Only the ones you want to keep.",
-      "DadJokeOfTheDay": "Whiteboards ... are remarkable.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5hcqw4.jpg"
+      "FunFactOfTheDay": "There are 1 million ants for every human in the world.",
+      "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
+      "DadJokeOfTheDay": "What do you call a duck that gets all A's? A wise quacker.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5hgic5.jpg"
    }
 }
 ```
