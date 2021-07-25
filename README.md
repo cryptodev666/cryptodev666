@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 1 million ants for every human in the world.",
-      "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
-      "DadJokeOfTheDay": "What do you call a duck that gets all A's? A wise quacker.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5hgic5.jpg"
+      "FunFactOfTheDay": "70% of all boats sold are used for fishing.",
+      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
+      "DadJokeOfTheDay": "R.I.P. boiled water. You will be mist.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5hjcfu.jpg"
    }
 }
 ```
