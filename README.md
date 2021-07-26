@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "70% of all boats sold are used for fishing.",
-      "CoolAdviceOfTheDay": "Brush your teeth the moment you get up.",
-      "DadJokeOfTheDay": "R.I.P. boiled water. You will be mist.",
-      "IsTodayChristmas?": "Maybe",
+      "FunFactOfTheDay": "Larry Lewis ran the 100-yard dash in 17.8 seconds in 1969, thereby setting a new world`s record for runners in the 100-years-or-older class. He was 101.",
+      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "DadJokeOfTheDay": "I knew i shouldn’t have ate that seafood. Because now i’m feeling a little… Eel",
+      "IsTodayChristmas?": "Ask me in a year",
       "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5hjcfu.jpg"
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5hm9q2.jpg"
    }
 }
 ```
