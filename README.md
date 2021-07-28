@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Each of us generates about 3.5 pounds of rubbish a day, most of it paper.",
-      "CoolAdviceOfTheDay": "Rule number 1: Try not to die. Rule number 2: Don't be a dick.",
-      "DadJokeOfTheDay": "Why did the house go to the doctor? It was having window panes.",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5hpy4u.jpg"
+      "FunFactOfTheDay": "Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.",
+      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
+      "DadJokeOfTheDay": "How does a dyslexic poet write? Inverse.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5httvt.jpg"
    }
 }
 ```
