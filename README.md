@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.",
-      "CoolAdviceOfTheDay": "The best nights out are when people around you are simply having fun.",
-      "DadJokeOfTheDay": "How does a dyslexic poet write? Inverse.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5httvt.jpg"
+      "FunFactOfTheDay": "More people are killed annually by donkeys than airplane crashes.",
+      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
+      "DadJokeOfTheDay": "How does a French skeleton say hello? Bone-jour.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5hxry0.jpg"
    }
 }
 ```
