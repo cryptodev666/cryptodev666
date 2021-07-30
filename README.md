@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "More people are killed annually by donkeys than airplane crashes.",
-      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
-      "DadJokeOfTheDay": "How does a French skeleton say hello? Bone-jour.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5hxry0.jpg"
+      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
+      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
+      "DadJokeOfTheDay": "I was wondering why the frisbee was getting bigger, then it hit me.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5i1to7.jpg"
    }
 }
 ```
