@@ -54,7 +54,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,514",
+      "CurrentStackOverflowReputation": "1,524",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Van Gogh only sold one painting when he was alive.",
-      "CoolAdviceOfTheDay": "Being kind is more rewarding than being right.",
-      "DadJokeOfTheDay": "I was wondering why the frisbee was getting bigger, then it hit me.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5i1to7.jpg"
+      "FunFactOfTheDay": "Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.",
+      "CoolAdviceOfTheDay": "Sometimes, you just need to say sorry. Even if it's not your fault.",
+      "DadJokeOfTheDay": "Two dyslexics walk into a bra.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5i5naz.jpg"
    }
 }
 ```
