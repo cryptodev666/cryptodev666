@@ -73,12 +73,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.",
-      "CoolAdviceOfTheDay": "Sometimes, you just need to say sorry. Even if it's not your fault.",
-      "DadJokeOfTheDay": "Two dyslexics walk into a bra.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5i5naz.jpg"
+      "FunFactOfTheDay": "Almonds are a member of the peach family.",
+      "CoolAdviceOfTheDay": "A common regret in life is wishing one had the courage to be ones true self.",
+      "DadJokeOfTheDay": "What did the green grape say to the purple grape? BREATH!!",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5i8ioe.jpg"
    }
 }
 ```
