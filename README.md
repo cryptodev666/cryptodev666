@@ -38,6 +38,7 @@
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/open_source_initiative-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="openSourceInitiative" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Metabase&color=509EE3&logo=Metabase&logoColor=FFFFFF&label=" alt="Metabase" />&nbsp;&nbsp;
 </p>
 
 </br>
