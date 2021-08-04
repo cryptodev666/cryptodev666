@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In the early 1940s, the FCC assigned television`s Channel 1 to mobile services (like two-way radios in taxis) but did not re-number the other channel assignments.",
-      "CoolAdviceOfTheDay": "True happiness always resides in the quest.",
-      "DadJokeOfTheDay": "How many South Americans does it take to change a lightbulb? A Brazilian",
-      "IsTodayChristmas?": "Not this time",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5iha4l.jpg"
+      "FunFactOfTheDay": "It takes 3,000 cows to supply the NFL with enough leather for a year`s supply of footballs.",
+      "CoolAdviceOfTheDay": "If you're going bald, don't comb your hair over your bald patch.",
+      "DadJokeOfTheDay": "I adopted my dog from a blacksmith. As soon as we got home he made a bolt for the door.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5iiw7e.jpg"
    }
 }
 ```
