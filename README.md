@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.",
-      "CoolAdviceOfTheDay": "Cars are bad investments.",
-      "DadJokeOfTheDay": "What do you call a cow on a trampoline? A milk shake!",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5imqzl.jpg"
+      "FunFactOfTheDay": "Tehran is the most expensive city on earth.",
+      "CoolAdviceOfTheDay": "If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.",
+      "DadJokeOfTheDay": "Why did the kid cross the playground? To get to the other slide.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5iqpsv.jpg"
    }
 }
 ```
