@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,548",
+      "CurrentStackOverflowReputation": "1,546",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Hong Kong holds the most Rolls Royce’s per capita.",
-      "CoolAdviceOfTheDay": "When the cistern is filling, the seat is probably still warm.",
-      "DadJokeOfTheDay": "Without geometry life is pointless.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5j9eas.jpg"
+      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
+      "CoolAdviceOfTheDay": "Sing in the shower.",
+      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5jbyfb.jpg"
    }
 }
 ```
