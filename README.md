@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
-      "CoolAdviceOfTheDay": "Sing in the shower.",
-      "DadJokeOfTheDay": "I couldn't get a reservation at the library. They were completely booked.",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5jbyfb.jpg"
+      "FunFactOfTheDay": "Over 1000 birds a year die from smashing into windows!",
+      "CoolAdviceOfTheDay": "Stop using the term 'busy' as an excuse.",
+      "DadJokeOfTheDay": "Why did the half blind man fall in the well? Because he couldn't see that well!",
+      "IsTodayChristmas?": "Yes'nt",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5jg1aw.jpg"
    }
 }
 ```
