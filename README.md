@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Over 1000 birds a year die from smashing into windows!",
-      "CoolAdviceOfTheDay": "Stop using the term 'busy' as an excuse.",
-      "DadJokeOfTheDay": "Why did the half blind man fall in the well? Because he couldn't see that well!",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5jg1aw.jpg"
+      "FunFactOfTheDay": "Koala is Aboriginal for 'no drink'.",
+      "CoolAdviceOfTheDay": "What could you increase? What could you reduce?",
+      "DadJokeOfTheDay": "People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5jk156.jpg"
    }
 }
 ```
