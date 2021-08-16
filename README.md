@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow",
-      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
-      "DadJokeOfTheDay": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
-      "IsTodayChristmas?": "Nope",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5jq2it.jpg"
+      "FunFactOfTheDay": "3.6 cans of Spam are consumed each second.",
+      "CoolAdviceOfTheDay": "You never really grow up.",
+      "DadJokeOfTheDay": "Why did the opera singer go sailing? They wanted to hit the high Cs.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5jr4ac.jpg"
    }
 }
 ```
