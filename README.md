@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Lawn darts are illegal in Canada.",
-      "CoolAdviceOfTheDay": "Why wait until valentines day for a romantic gesture?",
-      "DadJokeOfTheDay": "I’ll tell you something about German sausages, they’re the wurst",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5jn0d7.jpg"
+      "FunFactOfTheDay": "The KGB is headquartered at No. 2 Felix Dzerzhinsky Square, Moscow",
+      "CoolAdviceOfTheDay": "Try going commando to an important meeting, NB: don't wear a skirt.",
+      "DadJokeOfTheDay": "Why couldn't the kid see the pirate movie? Because it was rated arrr!",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5jq2it.jpg"
    }
 }
 ```
