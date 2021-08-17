@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "3.6 cans of Spam are consumed each second.",
-      "CoolAdviceOfTheDay": "You never really grow up.",
-      "DadJokeOfTheDay": "Why did the opera singer go sailing? They wanted to hit the high Cs.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5jr4ac.jpg"
+      "FunFactOfTheDay": "Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.",
+      "CoolAdviceOfTheDay": "Always bet on black.",
+      "DadJokeOfTheDay": "What do you call a boy who stopped digging holes? Douglas.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ju01s.jpg"
    }
 }
 ```
