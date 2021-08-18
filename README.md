@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Statues in parks: If the horse has both front legs in the air, the person died in battle; if the horse has one front leg in the air, the person died as a result of wounds received in battle; if the horse has all four legs on the ground, the person died of natural causes.",
-      "CoolAdviceOfTheDay": "Always bet on black.",
-      "DadJokeOfTheDay": "What do you call a boy who stopped digging holes? Douglas.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ju01s.jpg"
+      "FunFactOfTheDay": "The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.",
+      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
+      "DadJokeOfTheDay": "What is a vampire's favorite fruit? A blood orange.",
+      "IsTodayChristmas?": "Maybe",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5jy40h.jpg"
    }
 }
 ```
