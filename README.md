@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.",
-      "CoolAdviceOfTheDay": "If you don't ask, you don't get.",
-      "DadJokeOfTheDay": "What is a vampire's favorite fruit? A blood orange.",
-      "IsTodayChristmas?": "Maybe",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5jy40h.jpg"
+      "FunFactOfTheDay": "Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.",
+      "CoolAdviceOfTheDay": "As you get older, learn never to trust a fart.",
+      "DadJokeOfTheDay": "I used to be addicted to the hokey pokey, but I turned myself around.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5k2awx.jpg"
    }
 }
 ```
