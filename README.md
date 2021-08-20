@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,546",
+      "CurrentStackOverflowReputation": "1,556",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Crocodiles and alligators are surprisingly fast on land.  Although they are rapid, they are not agile.  So, if being chased by one, run in a zigzag line to lose him or her.",
-      "CoolAdviceOfTheDay": "As you get older, learn never to trust a fart.",
-      "DadJokeOfTheDay": "I used to be addicted to the hokey pokey, but I turned myself around.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5k2awx.jpg"
+      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
+      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
+      "DadJokeOfTheDay": "Atheism is a non-prophet organisation.",
+      "IsTodayChristmas?": "!Yes",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5k6pde.jpg"
    }
 }
 ```
