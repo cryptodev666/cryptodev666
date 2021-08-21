@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.",
-      "CoolAdviceOfTheDay": "Most things done in secrecy are better left undone.",
-      "DadJokeOfTheDay": "Atheism is a non-prophet organisation.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5k6pde.jpg"
+      "FunFactOfTheDay": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
+      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
+      "DadJokeOfTheDay": "I asked a frenchman if he played video games. He said 'Wii'",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5kb0tv.jpg"
    }
 }
 ```
