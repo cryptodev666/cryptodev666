@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The pop you hear when you crack your knuckles is actually a bubble of gas burning.",
-      "CoolAdviceOfTheDay": "The quieter you become, the more you can hear.",
-      "DadJokeOfTheDay": "I asked a frenchman if he played video games. He said 'Wii'",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5kb0tv.jpg"
+      "FunFactOfTheDay": "Telly Savalas and Louis Armstrong died on their birthdays.  ",
+      "CoolAdviceOfTheDay": "Fail. Fail again. Fail better.",
+      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "Unfortunately, not",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ke6lw.jpg"
    }
 }
 ```
