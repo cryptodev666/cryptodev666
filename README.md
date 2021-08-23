@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,556",
+      "CurrentStackOverflowReputation": "1,558",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Telly Savalas and Louis Armstrong died on their birthdays.  ",
-      "CoolAdviceOfTheDay": "Fail. Fail again. Fail better.",
-      "DadJokeOfTheDay": "Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "Unfortunately, not",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5ke6lw.jpg"
+      "FunFactOfTheDay": "Annual growth of WWW traffic is 314,000%",
+      "CoolAdviceOfTheDay": "If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.",
+      "DadJokeOfTheDay": "Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.",
+      "IsTodayChristmas?": "Nope",
+      "IsTodayMyBirthday?": "Not this time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5khbt4.jpg"
    }
 }
 ```
