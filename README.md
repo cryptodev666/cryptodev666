@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Coca-Cola was originally green.",
-      "CoolAdviceOfTheDay": "You have as many hours in a day as the people you admire most.",
-      "DadJokeOfTheDay": "Did you hear about the new restaurant on the moon? The food is great, but there’s just no atmosphere.",
-      "IsTodayChristmas?": "!Yes",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5l2lw5.jpg"
+      "FunFactOfTheDay": "Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.",
+      "CoolAdviceOfTheDay": "Just because you are offended, doesn't mean you are right.",
+      "DadJokeOfTheDay": "Last night me and my girlfriend watched three DVDs back to back. Luckily I was the one facing the TV.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5l5ohg.jpg"
    }
 }
 ```
