@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "To 'testify' was based on men in the Roman court swearing to a statement made by swearing on their testicles.",
-      "CoolAdviceOfTheDay": "The higher up you are in a company, the more likely it is that your boss is a psychopath.",
-      "DadJokeOfTheDay": "In my career as a lumberjack I cut down exactly 52,487 trees. I know because I kept a log.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5l8w7d.jpg"
+      "FunFactOfTheDay": "The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.",
+      "CoolAdviceOfTheDay": "Don't cross the streams.",
+      "DadJokeOfTheDay": "Why was the robot angry? Because someone kept pressing his buttons!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5lcz0z.jpg"
    }
 }
 ```
