@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,556",
+      "CurrentStackOverflowReputation": "1,566",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The shape of plant collenchyma’s cells and the shape of the bubbles in beer foam are the same - they are orthotetrachidecahedrons.",
-      "CoolAdviceOfTheDay": "Don't cross the streams.",
-      "DadJokeOfTheDay": "Why was the robot angry? Because someone kept pressing his buttons!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5lcz0z.jpg"
+      "FunFactOfTheDay": "The name of the girl on the statue of liberty is Mother of Exiles.",
+      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
+      "DadJokeOfTheDay": "What's the difference between a guitar and a fish? You can tune a guitar but you can't 'tuna' fish!",
+      "IsTodayChristmas?": "Maybe another time",
+      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5lhgwo.jpg"
    }
 }
 ```
