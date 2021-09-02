@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The name of the girl on the statue of liberty is Mother of Exiles.",
-      "CoolAdviceOfTheDay": "For every complex problem there is an answer that is clear, simple, and wrong.",
-      "DadJokeOfTheDay": "What's the difference between a guitar and a fish? You can tune a guitar but you can't 'tuna' fish!",
-      "IsTodayChristmas?": "Maybe another time",
-      "IsTodayMyBirthday?": "A long long time ago, in a far far galaxy away, it was",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5lhgwo.jpg"
+      "FunFactOfTheDay": "The plastic things on the end of shoelaces are called aglets.",
+      "CoolAdviceOfTheDay": "Play is the true mother of invention.",
+      "DadJokeOfTheDay": "Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.",
+      "IsTodayChristmas?": "Not this time",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5lltij.jpg"
    }
 }
 ```
