@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All of the clocks in the movie 'Pulp Fiction' are stuck on 4:20, a national pot-smokers hour.",
-      "CoolAdviceOfTheDay": "Do not check work email on your days off.",
-      "DadJokeOfTheDay": "How many hipsters does it take to change a lightbulb? Oh, it's a really obscure number. You've probably never heard of it.",
+      "FunFactOfTheDay": "Tigers not only have striped fur, they have striped skin!",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "Two parrots are sitting on a perch. One turns to the other and asks, 'do you smell fish?'",
       "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5lq5fg.jpg"
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5lu9pt.jpg"
    }
 }
 ```
