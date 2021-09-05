@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Tigers not only have striped fur, they have striped skin!",
-      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
-      "DadJokeOfTheDay": "Two parrots are sitting on a perch. One turns to the other and asks, 'do you smell fish?'",
-      "IsTodayChristmas?": "Nah",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5lu9pt.jpg"
+      "FunFactOfTheDay": "Dr. Jack Kevorkian first patient has Alzheimer`s disease.",
+      "CoolAdviceOfTheDay": "Measure twice, cut once.",
+      "DadJokeOfTheDay": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
+      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
+      "IsTodayMyBirthday?": "Nah",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5lxakx.jpg"
    }
 }
 ```
