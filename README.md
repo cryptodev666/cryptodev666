@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dr. Jack Kevorkian first patient has Alzheimer`s disease.",
-      "CoolAdviceOfTheDay": "Measure twice, cut once.",
-      "DadJokeOfTheDay": "Why is there always a gate around cemeteries? Because people are always dying to get in.",
-      "IsTodayChristmas?": "A long long time ago, in a far far galaxy away, it was",
-      "IsTodayMyBirthday?": "Nah",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5lxakx.jpg"
+      "FunFactOfTheDay": "The average American/Canadian will eat about 11.9 pounds of cereal per year!",
+      "CoolAdviceOfTheDay": "Never set an alarm clock unless you know how to switch it off",
+      "DadJokeOfTheDay": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.",
+      "IsTodayChristmas?": "I dont know",
+      "IsTodayMyBirthday?": "No",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5m0e5f.jpg"
    }
 }
 ```
