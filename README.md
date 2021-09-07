@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The average American/Canadian will eat about 11.9 pounds of cereal per year!",
-      "CoolAdviceOfTheDay": "Never set an alarm clock unless you know how to switch it off",
-      "DadJokeOfTheDay": "Some people say that comedians who tell one too many light bulb jokes soon burn out, but they don't know watt they are talking about. They're not that bright.",
-      "IsTodayChristmas?": "I dont know",
-      "IsTodayMyBirthday?": "No",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5m0e5f.jpg"
+      "FunFactOfTheDay": "Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.",
+      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
+      "DadJokeOfTheDay": "Have you heard of the band 1023MB? They haven't got a gig yet.",
+      "IsTodayChristmas?": "One day",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5m40qn.jpg"
    }
 }
 ```
