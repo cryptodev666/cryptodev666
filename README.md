@@ -74,12 +74,13 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.",
-      "CoolAdviceOfTheDay": "Some people would be better off if they took their own advice.",
-      "DadJokeOfTheDay": "Have you heard of the band 1023MB? They haven't got a gig yet.",
+      "FunFactOfTheDay": "The highest per capita Jell-O comsumption in the US is Des Moines.",
+      "CoolAdviceOfTheDay": "Repeat people's names when you meet them.",
+      "DadJokeOfTheDay": "Why did the Clydesdale give the pony a glass of water? 
+Because he was a little horse!",
       "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5m40qn.jpg"
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5m8436.jpg"
    }
 }
 ```
