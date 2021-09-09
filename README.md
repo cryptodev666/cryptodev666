@@ -74,13 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The highest per capita Jell-O comsumption in the US is Des Moines.",
-      "CoolAdviceOfTheDay": "Repeat people's names when you meet them.",
-      "DadJokeOfTheDay": "Why did the Clydesdale give the pony a glass of water? 
-Because he was a little horse!",
-      "IsTodayChristmas?": "One day",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5m8436.jpg"
+      "FunFactOfTheDay": "The only nation whose name begins with an 'A', but doesn`t end in an 'A' is Afghanistan.",
+      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
+      "DadJokeOfTheDay": "What is a witch's favorite subject in school? Spelling!",
+      "IsTodayChristmas?": "Unfortunately, not",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5mcfap.jpg"
    }
 }
 ```
