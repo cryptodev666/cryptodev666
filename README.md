@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The only nation whose name begins with an 'A', but doesn`t end in an 'A' is Afghanistan.",
-      "CoolAdviceOfTheDay": "Accentuate the positive, eliminate the negative.",
-      "DadJokeOfTheDay": "What is a witch's favorite subject in school? Spelling!",
-      "IsTodayChristmas?": "Unfortunately, not",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5mcfap.jpg"
+      "FunFactOfTheDay": "All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.",
+      "CoolAdviceOfTheDay": "When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.",
+      "DadJokeOfTheDay": "There's not really any training for garbagemen. They just pick things up as they go.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5mgzlp.jpg"
    }
 }
 ```
