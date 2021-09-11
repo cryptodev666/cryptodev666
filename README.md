@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "All 50 states are listed across the top of the Lincoln Memorial on the back of the $5 bill.",
-      "CoolAdviceOfTheDay": "When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.",
-      "DadJokeOfTheDay": "There's not really any training for garbagemen. They just pick things up as they go.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "!Yes",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5mgzlp.jpg"
+      "FunFactOfTheDay": "Canada makes up 6.67 percent of the Earth`s land area",
+      "CoolAdviceOfTheDay": "Never run with scissors.",
+      "DadJokeOfTheDay": "I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Nope",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5mlceq.jpg"
    }
 }
 ```
