@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,576",
+      "CurrentStackOverflowReputation": "1,574",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Canada makes up 6.67 percent of the Earth`s land area",
-      "CoolAdviceOfTheDay": "Never run with scissors.",
-      "DadJokeOfTheDay": "I don’t play soccer because I enjoy the sport. I’m just doing it for kicks.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5mlceq.jpg"
+      "FunFactOfTheDay": "The sweat drops drawn in cartoon comic strips are called pleuts.",
+      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
+      "DadJokeOfTheDay": "When is a door not a door? When it's ajar.",
+      "IsTodayChristmas?": "Not yet",
+      "IsTodayMyBirthday?": "Ask me in a year",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5mogmu.jpg"
    }
 }
 ```
