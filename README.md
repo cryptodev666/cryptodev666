@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,574",
+      "CurrentStackOverflowReputation": "1,584",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The sweat drops drawn in cartoon comic strips are called pleuts.",
-      "CoolAdviceOfTheDay": "Don't be afraid to ask questions.",
-      "DadJokeOfTheDay": "When is a door not a door? When it's ajar.",
-      "IsTodayChristmas?": "Not yet",
-      "IsTodayMyBirthday?": "Ask me in a year",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5mogmu.jpg"
+      "FunFactOfTheDay": "In most advertisements, including newspapers, the time displayed on a watch is 10:10.",
+      "CoolAdviceOfTheDay": "Work is never as important as you think it is.",
+      "DadJokeOfTheDay": "Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5mrsaa.jpg"
    }
 }
 ```
