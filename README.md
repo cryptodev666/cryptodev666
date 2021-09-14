@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "In most advertisements, including newspapers, the time displayed on a watch is 10:10.",
-      "CoolAdviceOfTheDay": "Work is never as important as you think it is.",
-      "DadJokeOfTheDay": "Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5mrsaa.jpg"
+      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
+      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
+      "DadJokeOfTheDay": "I’ll tell you something about German sausages, they’re the wurst",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Not quite",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5mw0tg.jpg"
    }
 }
 ```
