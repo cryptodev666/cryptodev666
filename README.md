@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "`Stewardesses` is the longest word that is typed with only the left hand.",
-      "CoolAdviceOfTheDay": "Visitors are like fish: As much as you might like them, after three days they start to smell.",
-      "DadJokeOfTheDay": "I’ll tell you something about German sausages, they’re the wurst",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Not quite",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5mw0tg.jpg"
+      "FunFactOfTheDay": "A Boeing 747`s wingspan is longer than the Wright brother`s first flight.",
+      "CoolAdviceOfTheDay": "Keep it simple.",
+      "DadJokeOfTheDay": "How do you steal a coat? You jacket.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "No say I",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5n0fow.jpg"
    }
 }
 ```
