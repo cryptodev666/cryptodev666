@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "A Boeing 747`s wingspan is longer than the Wright brother`s first flight.",
-      "CoolAdviceOfTheDay": "Keep it simple.",
-      "DadJokeOfTheDay": "How do you steal a coat? You jacket.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "No say I",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5n0fow.jpg"
+      "FunFactOfTheDay": "Babies are most likely to be born on Tuesdays.",
+      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
+      "DadJokeOfTheDay": "I asked a frenchman if he played video games. He said 'Wii'",
+      "IsTodayChristmas?": "No say I",
+      "IsTodayMyBirthday?": "Ask me tomorrow",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5n4zje.jpg"
    }
 }
 ```
