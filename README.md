@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Babies are most likely to be born on Tuesdays.",
-      "CoolAdviceOfTheDay": "Never buy cheap cling film.",
-      "DadJokeOfTheDay": "I asked a frenchman if he played video games. He said 'Wii'",
-      "IsTodayChristmas?": "No say I",
-      "IsTodayMyBirthday?": "Ask me tomorrow",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5n4zje.jpg"
+      "FunFactOfTheDay": "There are 293 ways to make change for a dollar.",
+      "CoolAdviceOfTheDay": "Today, do not use the words â€˜Kind of,' â€˜Sort of' or â€˜Maybe.' It either is or it isn't.",
+      "DadJokeOfTheDay": "Why did the tree go to the dentist? It needed a root canal.",
+      "IsTodayChristmas?": "No",
+      "IsTodayMyBirthday?": "Maybe another time",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5n9jbf.jpg"
    }
 }
 ```
