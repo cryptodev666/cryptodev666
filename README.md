@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,584",
+      "CurrentStackOverflowReputation": "1,580",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "There are 293 ways to make change for a dollar.",
-      "CoolAdviceOfTheDay": "Today, do not use the words â€˜Kind of,' â€˜Sort of' or â€˜Maybe.' It either is or it isn't.",
-      "DadJokeOfTheDay": "Why did the tree go to the dentist? It needed a root canal.",
-      "IsTodayChristmas?": "No",
-      "IsTodayMyBirthday?": "Maybe another time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5n9jbf.jpg"
+      "FunFactOfTheDay": "Butterflies taste with their hind feet.",
+      "CoolAdviceOfTheDay": "You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.",
+      "DadJokeOfTheDay": "Did you hear about the submarine industry? It really took a dive...",
+      "IsTodayChristmas?": "Not quite",
+      "IsTodayMyBirthday?": "!Yes",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5ne846.jpg"
    }
 }
 ```
