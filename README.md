@@ -75,11 +75,11 @@
    },
    "RandomStuff": {
       "FunFactOfTheDay": "Not beep boop :(",
-      "CoolAdviceOfTheDay": "A common regret in life is wishing one hadn't worked so hard.",
-      "DadJokeOfTheDay": "I went to the zoo the other day, there was only one dog in it. It was a shitzu.",
-      "IsTodayChristmas?": "Not quite",
-      "IsTodayMyBirthday?": "Nope",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5nhb8c.jpg"
+      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
+      "DadJokeOfTheDay": "What did the ocean say to the beach? Thanks for all the sediment.",
+      "IsTodayChristmas?": "Ask me in a year",
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5nknaf.jpg"
    }
 }
 ```
