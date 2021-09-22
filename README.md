@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Not beep boop :(",
-      "CoolAdviceOfTheDay": "If your hair is thinning, try dying your hair a similar tone to your scalp.",
-      "DadJokeOfTheDay": "What did the ocean say to the beach? Thanks for all the sediment.",
-      "IsTodayChristmas?": "Ask me in a year",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5nknaf.jpg"
+      "FunFactOfTheDay": "Thirty-five percent of people who use personal ads for dating are already married.",
+      "CoolAdviceOfTheDay": "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.",
+      "DadJokeOfTheDay": "Why is the ocean always blue? Because the shore never waves back.",
+      "IsTodayChristmas?": "Ask me tomorrow",
+      "IsTodayMyBirthday?": "I dont know",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5nthf8.jpg"
    }
 }
 ```
