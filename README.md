@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "Thirty-five percent of people who use personal ads for dating are already married.",
-      "CoolAdviceOfTheDay": "When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.",
-      "DadJokeOfTheDay": "Why is the ocean always blue? Because the shore never waves back.",
-      "IsTodayChristmas?": "Ask me tomorrow",
-      "IsTodayMyBirthday?": "I dont know",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5nthf8.jpg"
+      "FunFactOfTheDay": " was Harrison Ford`s idea so that he could take a bathroom break.",
+      "CoolAdviceOfTheDay": "Plant a tree.",
+      "DadJokeOfTheDay": "Dad, can you put my shoes on? I don't think they'll fit me.",
+      "IsTodayChristmas?": "Ask me in one hour",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5nxyjq.jpg"
    }
 }
 ```
