@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": " was Harrison Ford`s idea so that he could take a bathroom break.",
-      "CoolAdviceOfTheDay": "Plant a tree.",
-      "DadJokeOfTheDay": "Dad, can you put my shoes on? I don't think they'll fit me.",
+      "FunFactOfTheDay": "The plastic things on the end of shoelaces are called aglets.",
+      "CoolAdviceOfTheDay": "The person who never made a mistake never made anything.",
+      "DadJokeOfTheDay": "Whoever invented the knock-knock joke should get a no bell prize.",
       "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "One day",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5nxyjq.jpg"
+      "IsTodayMyBirthday?": "Ask me in one hour",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5o2imo.jpg"
    }
 }
 ```
