@@ -55,7 +55,7 @@
    "Will": {
       "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
       "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,578",
+      "CurrentStackOverflowReputation": "1,588",
       "Favorites": {
          "OperationalSystem": "Arch Linux",
          "GUI": "XFCE",
@@ -74,12 +74,12 @@
       }
    },
    "RandomStuff": {
-      "FunFactOfTheDay": "The plastic things on the end of shoelaces are called aglets.",
-      "CoolAdviceOfTheDay": "The person who never made a mistake never made anything.",
-      "DadJokeOfTheDay": "Whoever invented the knock-knock joke should get a no bell prize.",
-      "IsTodayChristmas?": "Ask me in one hour",
-      "IsTodayMyBirthday?": "Ask me in one hour",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5o2imo.jpg"
+      "FunFactOfTheDay": "The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.",
+      "CoolAdviceOfTheDay": "Things are just things. Don't get too attached to them.",
+      "DadJokeOfTheDay": "It doesn't matter how much you push the envelope. It will still be stationary.",
+      "IsTodayChristmas?": "Nah",
+      "IsTodayMyBirthday?": "One day",
+      "RandomMemeOfTheDay": "https://i.imgflip.com/5o6w8z.jpg"
    }
 }
 ```
