@@ -50,42 +50,6 @@
 
 <!--START_SECTION:mydata-->
 
-```json
-{
-   "Will": {
-      "CurrentFocus": "Automate boring tasks with Python when i'm not at work",
-      "HowDoISeeMyselfIn5Years": "As a Sysadmin and a better Fullstack Developer",
-      "CurrentStackOverflowReputation": "1,588",
-      "Favorites": {
-         "OperationalSystem": "Arch Linux",
-         "GUI": "XFCE",
-         "Kernel": "Zen",
-         "Interpreter": "ZSH",
-         "IDE": "Sublime text",
-         "Language": "Python",
-         "MobileOS": "Android",
-         "Misc": ["Electronics"],
-         "Games": ["Chrono Trigger","Driver: Parallel Lines","Super Smash Brothers Melee"],
-         "Music": {
-            "Genres": ["Rock","Lo-fi","Indie"],
-            "Songs": ["Bad caracther - quasimodo","Goodbye weekend - Mac de marco","Reggae do Maneiro - Raimundos"],
-            "Artists": ["Mac Demarco","Raimundos","Jinsang"]
-         }
-      }
-   },
-   "RandomStuff": {
-      "FunFactOfTheDay": "When the French Academy was preparing its first dictionary, it defined 'crab' as, 'A small red fish, which walks backwards.' This definition was sent with a number of others to the naturalist Cuvier for his approval. The scientist wrote back, 'Your definition, gentlemen, would be perfect, only for three exceptions. The crab is not a fish, it is not red and it does not walk backwards.'",
-      "CoolAdviceOfTheDay": "Good advice is something a man gives when he is too old to set a bad example.",
-      "DadJokeOfTheDay": "A Sandwich walks into a bar, the bartender says “Sorry, we don’t serve food here”",
-      "IsTodayChristmas?": "Yes'nt",
-      "IsTodayMyBirthday?": "Not this time",
-      "RandomMemeOfTheDay": "https://i.imgflip.com/5oa026.jpg"
-   }
-}
-```
-
-<!--END_SECTION:mydata-->
-
 <br>
 
 <!--START_SECTION:waka-->
